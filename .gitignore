@@ -1,1 +1,12 @@
 refs
+*.pyc
+**/__pycache__
+*.egg
+*.egg-info
+*.egg-info/
+**/.ipynb_checkpoints
+**/.pytest_cache
+chatbots/task-oriented/t2t_data
+chatbots/task-oriented/t2t_datagen
+chatbots/task-oriented/t2t_train
+*.txt
