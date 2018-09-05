@@ -1,6 +1,8 @@
 PROBLEM=m2_m_problem
-MODEL=transformer
-HPARAMS=transformer_base_single_gpu
+# MODEL=transformer
+MODEL=lstm_seq2seq_attention
+# HPARAMS=transformer_base_single_gpu
+HPARAMS=my_lstm_params_set1
 
 CURRENT_DIR=$PWD
 DATA_DIR=$CURRENT_DIR/t2t_data
@@ -19,7 +21,10 @@ t2t-trainer \
   --hparams_set=$HPARAMS \
   --output_dir=$TRAIN_DIR \
   --train_steps=30000 \
-  --eval_early_stopping_steps=1000 \
-  --local_eval_frequency=500 \
+  --eval_early_stopping_steps=500 \
+  --local_eval_frequency=1000 \
+  --eval_steps=999999 \
   --eval_throttle_seconds=1 \
-  --keep_checkpoint_max=10
+  --keep_checkpoint_max=100 \
+  --eval_early_stopping_metric_delta=0.1 \
+  --schedule=train

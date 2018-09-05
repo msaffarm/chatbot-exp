@@ -194,6 +194,26 @@ class M2MProblem(text_problems.Text2TextProblem):
     return [metrics.Metrics.APPROX_BLEU,metrics.Metrics.NEG_LOG_PERPLEXITY]
 
 
+
+@registry.register_hparams
+def my_lstm_params_set1():
+  """hparams for LSTM."""
+  hparams = common_hparams.basic_params1()
+  hparams.daisy_chain_variables = False
+  hparams.batch_size = 1024
+  hparams.hidden_size = 128
+  hparams.num_hidden_layers = 2
+  hparams.initializer = "uniform_unit_scaling"
+  hparams.initializer_gain = 1.0
+  hparams.weight_decay = 0.0
+  hparams.add_hparam("attention_layer_size", hparams.hidden_size)
+  hparams.add_hparam("output_attention", True)
+  hparams.add_hparam("num_heads", 1)
+  hparams.add_hparam("attention_mechanism", "bahdanau")
+  return hparams
+
+
+
 # @registry.register_hparams
 # def my_very_own_hparams():
 #   # Start with the base set
@@ -203,3 +223,30 @@ class M2MProblem(text_problems.Text2TextProblem):
 #   # Add new hparams
 #   hp.add_hparam("filter_size", 2048)
 #   return hp
+
+# @registry.register_ranged_hparams
+# def my_ranged_params():
+#   """A basic range of hyperparameters."""
+#   rhp = common_hparams.basic_params1()
+#   rhp.set_discrete("batch_size", [1024])
+#   rhp.set_discrete("num_hidden_layers", [1, 2, 3, 4, 5, 6])
+#   rhp.set_discrete("hidden_size", [256, 512], scale=rhp.LOG_SCALE)
+#   # rhp.set_discrete("kernel_height", [1, 3, 5, 7])
+#   # rhp.set_discrete("kernel_width", [1, 3, 5, 7])
+#   # rhp.set_discrete("compress_steps", [0, 1, 2])
+#   rhp.set_float("dropout", 0.5,0.75,0.9)
+#   # rhp.set_float("weight_decay", 1e-4, 10.0, scale=rhp.LOG_SCALE)
+#   # rhp.set_float("label_smoothing", 0.0, 0.2)
+#   # rhp.set_float("clip_grad_norm", 0.01, 50.0, scale=rhp.LOG_SCALE)
+#   # rhp.set_float("learning_rate", 0.005, 2.0, scale=rhp.LOG_SCALE)
+#   # rhp.set_categorical("initializer",
+#   #                     ["uniform", "orthogonal", "uniform_unit_scaling"])
+#   # rhp.set_float("initializer_gain", 0.5, 3.5)
+#   # rhp.set_categorical("learning_rate_decay_scheme",
+#   #                     ["none", "sqrt", "noam", "exp"])
+#   # rhp.set_float("optimizer_adam_epsilon", 1e-7, 1e-2, scale=rhp.LOG_SCALE)
+#   # rhp.set_float("optimizer_adam_beta1", 0.8, 0.9)
+#   # rhp.set_float("optimizer_adam_beta2", 0.995, 0.999)
+#   rhp.set_categorical(
+#       "optimizer",
+#       ["Adam"])
