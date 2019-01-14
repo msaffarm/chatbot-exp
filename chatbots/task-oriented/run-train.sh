@@ -1,16 +1,31 @@
-PROBLEM=m2_m_problem
-MODEL=transformer
-HPARAMS=transformer_base_single_gpu
+# PROBLEM=m2_m_problem
+PROBLEM=dstc_problem
 
+# MODEL=transformer
+# HPARAMS=transformer_tiny
+
+# MODEL=universal_transformer
+# HPARAMS=universal_transformer_highway_tiny
+# HPARAMS=universal_transformer_tiny
+
+MODEL=universal_transformer
+HPARAMS=adaptive_universal_transformer_tiny
+
+# MODEL=lstm_seq2seq_attention
+# HPARAMS=lstm_attention
+
+# MODEL=lstm_seq2seq_attention_bidirectional_encoder
+# HPARAMS=lstm_attention
+
+DATASET="Rest"
 CURRENT_DIR=$PWD
 DATA_DIR=$CURRENT_DIR/t2t_data
 TMP_DIR=$CURRENT_DIR/t2t_datagen
-TRAIN_DIR=$CURRENT_DIR/t2t_train/$PROBLEM/$MODEL-$HPARAMS
+TRAIN_DIR=$CURRENT_DIR/t2t_train/$PROBLEM/$DATASET/$MODEL-$HPARAMS
 
 mkdir -p $DATA_DIR $TMP_DIR $TRAIN_DIR
 
 # Train
-# *  If you run out of memory, add --hparams='batch_size=1024'.
 t2t-trainer \
   --t2t_usr_dir=$CURRENT_DIR \
   --data_dir=$DATA_DIR \
@@ -18,8 +33,9 @@ t2t-trainer \
   --model=$MODEL \
   --hparams_set=$HPARAMS \
   --output_dir=$TRAIN_DIR \
-  --train_steps=30000 \
+  --train_steps=20000 \
+  --eval_steps=999999 \
   --eval_early_stopping_steps=1000 \
   --local_eval_frequency=500 \
   --eval_throttle_seconds=1 \
-  --keep_checkpoint_max=10
+  --keep_checkpoint_max=20

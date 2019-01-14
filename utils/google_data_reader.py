@@ -4,6 +4,8 @@ from collections import Counter, OrderedDict,defaultdict
 
 CURRENT_DIR = os.path.abspath(os.path.dirname(__file__))
 DATA_DIR = os.path.join(CURRENT_DIR,'../data')
+import spacy
+nlp = spacy.load("en_core_web_lg")
 
 class StoryFlag():
     utter = "User utterance (annotation)"
@@ -266,9 +268,151 @@ class GoogleDataReader(object):
 
 
 
+
+class DSTCDataReader(object):
+
+    def __init__(self):
+        self.train = []
+        self.test = []
+        self.dev = []
+        self.read_data()
+
+    def _create_dialogue(self,dialogue_list):
+        from collections import OrderedDict
+        diags_list = []
+        for i,diag in enumerate(dialogue_list):
+            print(i)
+            info = OrderedDict()
+            info["id"] = str(i+1)
+            info["turns"] = []
+            for turn in diag:
+                text = (turn[0],turn[2])
+                tokens = (self.tokenize_sentence(turn[0]),self.tokenize_sentence(turn[2]))
+                info["turns"].append(dict(text=text,tokens=tokens))
+
+            diags_list.append(info)
+        
+        return diags_list
+
+    
+    def read_data(self):
+        if os.path.exists(os.path.join(CURRENT_DIR,"DSTC2.pkl")):
+            import pickle as pk
+            with open(os.path.join(CURRENT_DIR,"DSTC2.pkl"),'rb') as f:
+                data = pk.load(f)
+            self.dev,self.train,self.test = data["dev"],data["train"],data["test"]
+            print("READ data from pickled file")
+            return
+        
+        print("Reading data files")
+        path = os.path.join(DATA_DIR,"dstc2/data.dstc2.dev.json")
+        self.dev = self._create_dialogue(json.load(open(path)))  
+        print("created dev set")
+
+        path = os.path.join(DATA_DIR,"dstc2/data.dstc2.test.json")
+        self.test = self._create_dialogue(json.load(open(path)))  
+        print("created test set")
+
+        path = os.path.join(DATA_DIR,"dstc2/data.dstc2.train.json")
+        self.train = self._create_dialogue(json.load(open(path)))  
+        print("created train set")
+
+        self.dump_data()
+        print("Data dumped!")
+
+    def get_dataset(self,mode="train"):
+        data = []
+        if mode=="train":
+            data = self.train
+        elif mode=="test":
+            data = self.test
+        elif mode=="dev":
+            data = self.dev
+        
+        return data
+
+
+    def tokenize_sentence(self,sentence):
+        return [token.lower_ for token in nlp(sentence)]
+
+
+    def dump_data(self):
+        data = dict(train=self.train,test=self.test,dev=self.dev)
+        import pickle as pk
+        with open(os.path.join(CURRENT_DIR,"DSTC2.pkl"),'wb') as f:
+            pk.dump(data,f)
+    
+
+    def get_data_tokens(self,mode="train"):
+        tokens = []
+        iterator = self.get_data_iterator(mode)
+        for turn in iterator:
+            s,u = turn["tokens"]
+            tokens += list(s)
+            tokens +=list(u)
+        # add silence token
+        tokens.append("sil")
+
+        return list(set(tokens))
+    
+
+    def get_data_iterator(self,mode="train"):
+        data = self.get_dataset(mode)
+        for diag in data:
+            for turn in diag["turns"]:
+                yield turn
+    
+
+    def create_test_data_files(self):
+        prependix = "DSTC2"
+        diaglogues = self.get_dataset("test")
+        info = {}
+        info["input"] = []
+        info["target"] = []
+        info["diag-id"] = []
+        for diag in diaglogues:
+            diagId = diag["id"]
+            turns_text = []
+            for turn in diag["turns"]:
+                s,u = turn["tokens"]
+                if not s:
+                    s = ["sil"]
+                if not u:
+                    u = ["sil"]
+                turns_text.append(' '.join(s))
+                turns_text.append(' '.join(u))
+            # drop the welcome message
+            turns_text = list(turns_text[1:-1])
+            # print(turns_text)
+            # new shape [u,s,u,s]
+
+            for i in range(0,len(turns_text),2):
+                info["input"].append(" ".join(turns_text[0:i+1]))
+                info["target"].append(turns_text[i+1])
+                info["diag-id"].append(diagId)
+
+        # dump 
+        with open(prependix + "input-test.txt",'w') as f:
+            for i in info["input"]:
+                f.write(i+'\n')
+        with open(prependix+"target-test.txt",'w') as f:
+            for i in info["target"]:
+                f.write(i+'\n')
+        with open(prependix + "diagid-test.txt",'w') as f:
+            for i in info["diag-id"]:
+                f.write(i+'\n')
+
+
 def main():
+    dr = DSTCDataReader()
+    dr.read_data()
+    t = dr.get_data_tokens("dev")
+    print(t)
+def get_m2m_data():
+
     # file_names = ["sim-R/dev.json"]
-    file_names = ["sim-R/train.json","sim-R/dev.json","sim-R/test.json"]
+    # file_names = ["sim-R/train.json","sim-R/dev.json","sim-R/test.json"]
+    file_names = ["sim-M/train.json","sim-M/dev.json","sim-M/test.json"]
     dr = GoogleDataReader(file_names)
 
     token_dict = dr.get_token_dict()
@@ -277,7 +421,9 @@ def main():
 
 def create_test_files():
     
-    file_names = ["sim-R/test.json"]
+    file_names = ["sim-M/test.json"]
+    prependix = "Movie"
+
     dr = GoogleDataReader(file_names)
     # create test file to be decoded!
     dialgoues = dr.get_dialogues_turn_tuples()
@@ -297,23 +443,16 @@ def create_test_files():
             info["diag-id"].append(diagId)
 
     # dump 
-    with open("input-test.txt",'w') as f:
+    with open(prependix + "input-test.txt",'w') as f:
         for i in info["input"]:
             f.write(i+'\n')
-    with open("target-test.txt",'w') as f:
+    with open(prependix+"target-test.txt",'w') as f:
         for i in info["target"]:
             f.write(i+'\n')
-    with open("diagid-test.txt",'w') as f:
+    with open(prependix + "diagid-test.txt",'w') as f:
         for i in info["diag-id"]:
             f.write(i+'\n')
-
-def test():
-    l = ["hi","there","my","user name","is","mansour"]
-    d = []
-    for i in range(len(l)-1):
-        d.append(dict(input=" ".join(l[0:i+1]),target=l[i+1]))
     
-    print(d)
 
 if __name__ == '__main__':
     main()

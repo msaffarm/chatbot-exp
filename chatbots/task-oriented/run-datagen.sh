@@ -1,11 +1,9 @@
-PROBLEM=m2_m_problem
-MODEL=transformer
-HPARAMS=transformer_base_single_gpu
+# PROBLEM=m2_m_problem
+PROBLEM=dstc_problem
 
 CURRENT_DIR=$PWD
 DATA_DIR=$CURRENT_DIR/t2t_data
 TMP_DIR=$CURRENT_DIR/t2t_datagen
-TRAIN_DIR=$CURRENT_DIR/t2t_train/$PROBLEM/$MODEL-$HPARAMS
 
 mkdir -p $DATA_DIR $TMP_DIR $TRAIN_DIR
 

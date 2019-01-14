@@ -1,18 +1,5 @@
-# coding=utf-8
-# Copyright 2018 The Tensor2Tensor Authors.
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
-"""Data generators for SquaAD (https://rajpurkar.github.io/SQuAD-explorer/).
+"""
+Data generators for M2M dataset .
 """
 import json
 import os
@@ -53,7 +40,8 @@ def _build_vocab(vocab_dir, vocab_name):
   
   if not tf.gfile.Exists(vocab_path):
 
-    file_names = ["sim-R/train.json","sim-R/dev.json","sim-R/test.json"]
+    # file_names = ["sim-R/train.json","sim-R/dev.json","sim-R/test.json"]
+    file_names = ["sim-M/train.json","sim-M/dev.json","sim-M/test.json"]
     data_reader = GoogleDataReader(file_names)
     
     tokens = []
@@ -75,9 +63,11 @@ def _get_examples(dataset_split):
   data_reader = GoogleDataReader()
   
   if dataset_split==problem.DatasetSplit.TRAIN:
-    data_reader.read_data_from("sim-R/train.json")
+    # data_reader.read_data_from("sim-R/train.json")
+    data_reader.read_data_from("sim-M/train.json")
   elif dataset_split==problem.DatasetSplit.EVAL:
-    data_reader.read_data_from("sim-R/dev.json")
+    # data_reader.read_data_from("sim-R/dev.json")
+    data_reader.read_data_from("sim-M/dev.json")
 
   dialgoues = data_reader.get_dialogues_turn_tuples()
     
@@ -94,11 +84,13 @@ class M2MProblem(text_problems.Text2TextProblem):
 
 
   def dataset_filename(self):
-    return "M2M-R"
+    # return "M2M-R"
+    return "M2M-M"
 
   @property
   def vocab_file(self):
-    return "M2M-R" + '.vocab'
+    # return "M2M-R" + '.vocab'
+    return "M2M-M" + '.vocab'
 
   @property
   def dataset_splits(self):
@@ -203,3 +195,9 @@ class M2MProblem(text_problems.Text2TextProblem):
 #   # Add new hparams
 #   hp.add_hparam("filter_size", 2048)
 #   return hp
+
+# @registry.register_hparams
+# def universal_transformer_base_single_gpu():
+#   hparams = transformer.transformer_big()
+#   hparams = update_hparams_for_universal_transformer(hparams)
+#   return hparams
