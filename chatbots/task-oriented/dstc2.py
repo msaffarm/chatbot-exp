@@ -12,7 +12,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-"""Data generators for SquaAD (https://rajpurkar.github.io/SQuAD-explorer/).
+"""Data generators for DSTCS2 challenge.
 """
 import json
 import os
