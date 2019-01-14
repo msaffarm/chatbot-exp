@@ -24,7 +24,7 @@ from google_data_reader import GoogleDataReader
 # Use register_hparams for a new hyperparameter set
 
 
-def _build_vocab(vocab_dir, vocab_name):
+def _build_vocab(vocab_dir, vocab_name, dataset_type='M'):
   """Build a vocabulary from examples.
 
   Args:
@@ -38,10 +38,16 @@ def _build_vocab(vocab_dir, vocab_name):
   data_reader = GoogleDataReader()
   vocab_path = os.path.join(vocab_dir, vocab_name)
   
+  dataset_name = ''
+  if dataset_type=='M':
+    dataset_name = "sim-M"
+  elif dataset_type=='R':
+    dataset_name = "sim-R"  
+
+
   if not tf.gfile.Exists(vocab_path):
 
-    # file_names = ["sim-R/train.json","sim-R/dev.json","sim-R/test.json"]
-    file_names = ["sim-M/train.json","sim-M/dev.json","sim-M/test.json"]
+    file_names = ["{}/train.json".format(dataset_name),"{}/dev.json".format(dataset_name),"{}/test.json".format(dataset_name)]
     data_reader = GoogleDataReader(file_names)
     
     tokens = []
@@ -59,37 +65,37 @@ def _build_vocab(vocab_dir, vocab_name):
   return encoder
 
 
-def _get_examples(dataset_split):
+def _get_examples(dataset_split,dataset_type='M'):
   data_reader = GoogleDataReader()
-  
+  dataset_name = ''
+  if dataset_type=='M':
+    dataset_name = "sim-M"
+  elif dataset_type=='R':
+    dataset_name = "sim-R"
+
   if dataset_split==problem.DatasetSplit.TRAIN:
-    # data_reader.read_data_from("sim-R/train.json")
-    data_reader.read_data_from("sim-M/train.json")
+    data_reader.read_data_from("{}/train.json".format(dataset_name))
   elif dataset_split==problem.DatasetSplit.EVAL:
-    # data_reader.read_data_from("sim-R/dev.json")
-    data_reader.read_data_from("sim-M/dev.json")
+    data_reader.read_data_from("{}/dev.json".format(dataset_name))
 
   dialgoues = data_reader.get_dialogues_turn_tuples()
-    
+  
 
   return dialgoues
 
 @registry.register_problem
-class M2MProblem(text_problems.Text2TextProblem):
+class M2M_M_Problem(text_problems.Text2TextProblem):
   """Base class for bAbi question answering problems."""
 
   def __init__(self, *args, **kwargs):
 
-    super(M2MProblem, self).__init__(*args, **kwargs)
-
+    super(M2M_M_Problem, self).__init__(*args, **kwargs)
 
   def dataset_filename(self):
-    # return "M2M-R"
     return "M2M-M"
 
   @property
   def vocab_file(self):
-    # return "M2M-R" + '.vocab'
     return "M2M-M" + '.vocab'
 
   @property
@@ -127,8 +133,8 @@ class M2MProblem(text_problems.Text2TextProblem):
   def generate_samples(self, data_dir, tmp_dir, dataset_split):
 
     # tmp_dir = _prepare_babi_data(tmp_dir, data_dir)
-    _build_vocab(data_dir, self.vocab_filename)
-    diaglogues = _get_examples(dataset_split)
+    _build_vocab(data_dir, self.vocab_filename, dataset_type='M')
+    diaglogues = _get_examples(dataset_split,dataset_type='M')
 
     def _generate_samples():
       """sample generator.
@@ -184,6 +190,119 @@ class M2MProblem(text_problems.Text2TextProblem):
       List of evaluation metrics of interest.
     """
     return [metrics.Metrics.APPROX_BLEU,metrics.Metrics.NEG_LOG_PERPLEXITY]
+
+
+
+@registry.register_problem
+class M2M_R_Problem(text_problems.Text2TextProblem):
+  """Base class for bAbi question answering problems."""
+
+  def __init__(self, *args, **kwargs):
+
+    super(M2M_R_Problem, self).__init__(*args, **kwargs)
+
+  def dataset_filename(self):
+    return "M2M-R"
+
+  @property
+  def vocab_file(self):
+    return "M2M-R" + '.vocab'
+
+  @property
+  def dataset_splits(self):
+    return [{
+        'split': problem.DatasetSplit.TRAIN,
+        'shards': 1,
+    }, {
+        'split': problem.DatasetSplit.EVAL,
+        'shards': 1,
+    }]
+
+  @property
+  def is_generate_per_split(self):
+    return True
+
+
+  @property
+  def vocab_type(self):
+    return text_problems.VocabType.TOKEN
+
+  def get_labels_encoder(self, data_dir):
+    """Builds encoder for the given class labels.
+
+    Args:
+      data_dir: data directory
+
+    Returns:
+      An encoder for class labels.
+    """
+    label_filepath = os.path.join(data_dir, self.vocab_filename)
+    return text_encoder.TokenTextEncoder(label_filepath)
+
+
+  def generate_samples(self, data_dir, tmp_dir, dataset_split):
+
+    # tmp_dir = _prepare_babi_data(tmp_dir, data_dir)
+    _build_vocab(data_dir, self.vocab_filename, dataset_type='R')
+    diaglogues = _get_examples(dataset_split, dataset_type='R')
+
+    def _generate_samples():
+      """sample generator.
+
+      Yields:
+        A dict.
+
+      """
+      for diag in diaglogues:
+        turns_text = []
+        for (u,s) in diag["turn_tuples"]:
+            turns_text.append(u)
+            turns_text.append(s)
+        # turns_text = [t["text"] for turns in diag["turns"] for t in turns]
+        for i in range(0,len(turns_text),2):
+            yield {
+                'inputs': " ".join(turns_text[0:i+1]),
+                'targets': turns_text[i+1]
+            }
+
+    return _generate_samples()
+
+  def generate_encoded_samples(self, data_dir, tmp_dir, dataset_split):
+    """A generator that generates samples that are encoded.
+
+    Args:
+      data_dir: data directory
+      tmp_dir: temp directory
+      dataset_split: dataset split
+
+    Yields:
+      A dict.
+
+    """
+    generator = self.generate_samples(data_dir, tmp_dir, dataset_split)
+    encoder = self.get_or_create_vocab(data_dir, tmp_dir)
+    label_encoder = self.get_labels_encoder(data_dir)
+    for sample in generator:
+      inputs = encoder.encode(sample['inputs'])
+      inputs.append(text_encoder.EOS_ID)
+      # context = encoder.encode(sample['context'])
+      # context.append(text_encoder.EOS_ID)
+      targets = label_encoder.encode(sample['targets'])
+      targets.append(text_encoder.EOS_ID)
+      # sample['targets'] = targets
+      yield {'inputs': inputs, 'targets': targets}
+
+
+  def eval_metrics(self):
+    """Specify the set of evaluation metrics for this problem.
+
+    Returns:
+      List of evaluation metrics of interest.
+    """
+    return [metrics.Metrics.APPROX_BLEU,metrics.Metrics.NEG_LOG_PERPLEXITY]
+
+
+
 
 
 # @registry.register_hparams
