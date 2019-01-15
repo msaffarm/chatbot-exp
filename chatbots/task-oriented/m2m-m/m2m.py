@@ -1,18 +1,5 @@
-# coding=utf-8
-# Copyright 2018 The Tensor2Tensor Authors.
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
-"""Data generators for DSTCS2 challenge.
+"""
+Data generators for M2M dataset .
 """
 import json
 import os
@@ -27,13 +14,17 @@ import tensorflow as tf
 
 
 CURRENT_DIR = os.path.abspath(os.path.dirname(__file__))
-UTILS_DIR = os.path.join(CURRENT_DIR,"../../utils")
+UTILS_DIR = os.path.join(CURRENT_DIR,"../../../utils")
 import sys
 sys.path.append(UTILS_DIR)
-from google_data_reader import DSTCDataReader
+from google_data_reader import GoogleDataReader
+
+# Use register_model for a new T2TModel
+# Use register_problem for a new Problem
+# Use register_hparams for a new hyperparameter set
 
 
-def _build_vocab(vocab_dir, vocab_name):
+def _build_vocab(vocab_dir, vocab_name, dataset_type='M'):
   """Build a vocabulary from examples.
 
   Args:
@@ -44,17 +35,29 @@ def _build_vocab(vocab_dir, vocab_name):
   Returns:
     text encoder.
   """
+  data_reader = GoogleDataReader()
   vocab_path = os.path.join(vocab_dir, vocab_name)
   
+  dataset_name = ''
+  if dataset_type=='M':
+    dataset_name = "sim-M"
+  elif dataset_type=='R':
+    dataset_name = "sim-R"  
+
+
   if not tf.gfile.Exists(vocab_path):
 
-    dr = DSTCDataReader()
+    file_names = ["{}/train.json".format(dataset_name),"{}/dev.json".format(dataset_name),"{}/test.json".format(dataset_name)]
+    data_reader = GoogleDataReader(file_names)
     
-    dev_tokens = dr.get_data_tokens("dev")
-    test_tokens = dr.get_data_tokens("test")
-    train_tokens = dr.get_data_tokens("train")
+    tokens = []
+    tokens_dict = data_reader.get_token_dict()
 
-    tokens = list(set(dev_tokens+test_tokens+train_tokens))
+    tokens += list(tokens_dict["regular_tokens"])
+    for _,slot_tokens in tokens_dict["entity_tokens"].items():
+      for st in list(slot_tokens):
+        tokens += st.split(" ")
+    
     encoder = text_encoder.TokenTextEncoder(None, vocab_list=tokens)
     encoder.store_to_file(vocab_path)
   else:
@@ -62,33 +65,38 @@ def _build_vocab(vocab_dir, vocab_name):
   return encoder
 
 
-def _get_examples(dataset_split):
-  data_reader = DSTCDataReader()
-  dialogues = []
+def _get_examples(dataset_split,dataset_type='M'):
+  data_reader = GoogleDataReader()
+  dataset_name = ''
+  if dataset_type=='M':
+    dataset_name = "sim-M"
+  elif dataset_type=='R':
+    dataset_name = "sim-R"
 
   if dataset_split==problem.DatasetSplit.TRAIN:
-    dialgoues = data_reader.get_dataset("train")
+    data_reader.read_data_from("{}/train.json".format(dataset_name))
   elif dataset_split==problem.DatasetSplit.EVAL:
-    dialgoues = data_reader.get_dataset("dev")
-    
+    data_reader.read_data_from("{}/dev.json".format(dataset_name))
+
+  dialgoues = data_reader.get_dialogues_turn_tuples()
+  
 
   return dialgoues
 
 @registry.register_problem
-class DstcProblem(text_problems.Text2TextProblem):
+class M2M_M_Problem(text_problems.Text2TextProblem):
   """Base class for bAbi question answering problems."""
 
   def __init__(self, *args, **kwargs):
 
-    super(DstcProblem, self).__init__(*args, **kwargs)
-
+    super(M2M_M_Problem, self).__init__(*args, **kwargs)
 
   def dataset_filename(self):
-    return "DSTC"
+    return "M2M-M"
 
   @property
   def vocab_file(self):
-    return "DSTC" + '.vocab'
+    return "M2M-M" + '.vocab'
 
   @property
   def dataset_splits(self):
@@ -124,8 +132,9 @@ class DstcProblem(text_problems.Text2TextProblem):
 
   def generate_samples(self, data_dir, tmp_dir, dataset_split):
 
-    _build_vocab(data_dir, self.vocab_filename)
-    diaglogues = _get_examples(dataset_split)
+    # tmp_dir = _prepare_babi_data(tmp_dir, data_dir)
+    _build_vocab(data_dir, self.vocab_filename, dataset_type='M')
+    diaglogues = _get_examples(dataset_split,dataset_type='M')
 
     def _generate_samples():
       """sample generator.
@@ -136,16 +145,10 @@ class DstcProblem(text_problems.Text2TextProblem):
       """
       for diag in diaglogues:
         turns_text = []
-        for turn in diag["turns"]:
-            s,u = turn["tokens"]
-            if not s:
-                s = ["sil"]
-            if not u:
-                u = ["sil"]
-            turns_text.append(' '.join(s))
-            turns_text.append(' '.join(u))
-        # drop the welcome message
-        turns_text = list(turns_text[1:-1])
+        for (u,s) in diag["turn_tuples"]:
+            turns_text.append(u)
+            turns_text.append(s)
+        # turns_text = [t["text"] for turns in diag["turns"] for t in turns]
         for i in range(0,len(turns_text),2):
             yield {
                 'inputs': " ".join(turns_text[0:i+1]),
@@ -187,3 +190,17 @@ class DstcProblem(text_problems.Text2TextProblem):
       List of evaluation metrics of interest.
     """
     return [metrics.Metrics.APPROX_BLEU,metrics.Metrics.NEG_LOG_PERPLEXITY]
+
+
+
+#BEST TRANSFOMER HPARAMS
+from tensor2tensor.models.transformer import transformer_tiny
+
+@registry.register_hparams
+def m2m_m_transformer_hparams():
+  hparams = transformer_tiny()
+  hparams.num_hidden_layers = 4
+  hparams.hidden_size = 128
+  hparams.filter_size = 512
+  hparams.num_heads = 4
+  return hparams

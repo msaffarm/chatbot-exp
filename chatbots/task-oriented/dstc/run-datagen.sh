@@ -1,4 +1,3 @@
-# PROBLEM=m2_m_problem
 PROBLEM=dstc_problem
 
 CURRENT_DIR=$PWD
