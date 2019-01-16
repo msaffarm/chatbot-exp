@@ -187,3 +187,17 @@ class DstcProblem(text_problems.Text2TextProblem):
       List of evaluation metrics of interest.
     """
     return [metrics.Metrics.APPROX_BLEU,metrics.Metrics.NEG_LOG_PERPLEXITY]
+
+
+
+#BEST TRANSFOMER HPARAMS
+from tensor2tensor.models.transformer import transformer_tiny
+
+@registry.register_hparams
+def m2m_m_transformer_hparams():
+  hparams = transformer_tiny()
+  hparams.num_hidden_layers = 4
+  hparams.hidden_size = 128
+  hparams.filter_size = 512
+  hparams.num_heads = 4
+  return hparams
