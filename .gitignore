@@ -9,4 +9,3 @@ refs
 chatbots/task-oriented/t2t_data
 chatbots/task-oriented/t2t_datagen
 chatbots/task-oriented/t2t_train
-*.txt
