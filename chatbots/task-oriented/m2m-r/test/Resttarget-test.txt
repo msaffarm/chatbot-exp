@@ -1,0 +1,2661 @@
+what type of food and price range should i look for ?
+please choose from these restaurants i have found : the hudson room , acorn or pompei .
+you can choose from the hudson room , deep blue , or sakoon
+i found three choices for you : the hudson room , deep blue or sakoon
+what type of food , what location and what price range ?
+i have found three restaurants ; the hudson room , the view or acorn
+what are you in the mood for ?
+how about the hudson room or los altos grill ?
+what price range and ratings would you prefer ?
+there are two choices for italian restaurants in kirkland . please choose either the hudson room or angel .
+okay , what price range ?
+i have three options for you : the hudson room , the ivy , or oren .
+please confirm that the location is yorktown heights
+what type of food and price range are you seeking ?
+please pick a restaurant : the hudson room or pepper .
+i found three choice for that : the hudson room , angel , or pompei
+what kind of food would you like ?
+choose from one of these restaurants : amarin , amber or los altos grill
+ok . then how about choosing one of these restaurants : high rooftop lounge , the hudson room or cetrella
+ok . ask for information on the following by saying the names or say more options : acorn , amarin , or deep blue .
+ask for information on the following by saying the names or say more options : the hudson room
+here are some choices , the hudson room , amber , or los altos grill .
+what kind of food and in what price range ?
+i found the hudson room , cetrella or evvia . choose the one you want
+i found the following restaurants : amarin , amber and cascal .
+sure , i found this one : the view
+do you need mediterranean food ?
+i found the following restaurants : the hudson room , boats and cascal
+choose the hudson room , angel , or deep blue
+how much would you like to spend ?
+what type of food would you like to eat and what area of town would you like for me to search ?
+i have three restaurant suggestions . they are the hudson room , boats or cetrella .
+in what location ?
+what price range ?
+inexpensive ?
+the nest .
+you ' d like mediterranean , right ?
+there are also .ink , the hudson room or boats .
+do you want to me to show you the hudson room , cetrella or pompei ?
+what area is your preference ?
+i have the hudson room , boats or the nest , which sounds better ?
+please pick from the following : the nest , ephesus , or sakoon
+how about the restaurant amber ?
+please pick from the following : boats , cascal , or sakoon
+how about the hudson room ?
+sure , what price range would you like ?
+what type of food would you like , what location , and what rating ?
+ok , so greek food , located in kirkland , with a good rating .
+which restaurant would you like , .ink or the hudson room or boats ?
+what type of food are you hungry for and in what location ?
+i have 3 choices that i found . high rooftop lounge , amber or oren restaurant
+i cannot find a thai restaurant in morristown .
+i found the hudson room , ephesus and los altos grill in madison .
+what type of food , meal and price are you looking at ?
+what would you like , high rooftop lounge or the hudson room ?
+the hudson room or los altos grill or sakoon .
+ok , here are a few restaurants that i have found in that area . high rooftop lounge , the hudson room , or the amber .
+you said los altos , correct ?
+what meal are you looking for , and what ' s your price range ?
+i have a few good choices , including the hudson room , los altos grill , or sakoon . which would you like ?
+price range ?
+i found three , the hudson room , boats and sweet greens
+what is your food preference and preferred location ?
+do you want the hudson room , evvia , or los altos grill ?
+i ' ve found the following restaurants : the hudson room , the nest or amarin .
+do you want to go to high rooftop lounge , the hudson room , or cascal
+your options are the hudson room , amber , or cetrella .
+the hudson room , angel , or deep blue
+choose from the following : .ink , the hudson room , or boats
+choose from the following : .ink , the hudson room , or boats
+what rating do you want
+what price range do you prefer ?
+what meal do you prefer
+i have 3 options : the hudson room , cetrella , or oren
+found 3 the hudson room , boats or sakoon
+sure , the hudson room , the view , or acorn ?
+found high rooftop lounge , the hudson room and cascal
+what type of restaurant ?
+here are some restaurants that match - the hudson room or the ivy
+you would like to know of any inexpensive restaurants in kirkland .
+the hudson room , evvia , and pompei are all inexpensive choices .
+sure , what location are you interested in
+what price range
+your choices are the hudson room , the ivy , or cetrella
+what kind of food and price range are you wanting ?
+there are three choices that meet your criteria : the hudson room , acorn , or oren .
+sure , what is your price range ?
+okay , how about the hudson room , the ivy , or acorn ?
+tell me what kind of food you would like
+which meal would you prefer ?
+what meal do you prefer ?
+ok how about the hudson room , cascal , or sweet greens ?
+yes , the following restaurants are available for you to choose , the hudson room , angel or cetrella .
+please provide your preference for the type of meal
+please confirm that type of meal is any .
+please provide your preference for restaurant location
+please choose from the following restaurant names : the hudson room , the ivy or deep blue
+what are your preferences for type of food , price range and rating ?
+so you ' d like vietnamese food with a good rating ?
+you can choose either the hudson room or sakoon
+here are some options , the hudson room and pompei
+what is your price range , mealtime and food type preference ?
+i have the angel , high rooftop lounge , or the hudson room . what is your choice ?
+you can choose from the hudson room , angel , or los altos grill .
+what kind of food and what kind of rating should the restaurant have ?
+here are three restaurants for you to choose from the ivy , deep blue , or sakoon ?
+there ' s the ivy or pepper .
+okay , what kind of meal do you want ?
+okay , i found .ink , high rooftop lounge , and pepper . what would you like ?
+okay , how about the ivy ?
+i found restaurants like the ivy , amarin or angel
+there is the ivy , ephesus , or pompei
+yes , what is your preference for food type , location and price range ?
+here are three options : the ivy , the view or amber .
+ok , what type of food , location and price range do you want
+which do you prefer .ink , the ivy or amarin ?
+here is a list of restaurants : the ivy or evvia
+in what price range ?
+you can select the ivy , cascal or oren .
+i found two , the ivy and deep blue . which one would you like information about ?
+sure , what kind of food and how do you want to see ratings ?
+okay , here are some options to choose from : the ivy , angel , or oren
+in what location ?
+what type of food ?
+please choose high rooftop lounge , the ivy , or amarin
+sort by meal and rating
+the ivy , pepper or sweet greens
+please provide a price range .
+what type of food are you looking for and in what location ?
+what about the ivy , the view , or pepper ?
+what is your preferred price range ?
+what is your preferred food type ?
+mediterranean , is this correct ?
+here are three to choose from ; the ivy , cascal , or sweet greens
+do you want have a preference for a type of food ?
+where should the restaurant be located ?
+i found multiple restaurants . choose from the high rooftop lounge or the ivy or sweet greens .
+ok , the location is yorktown heights and the cost is expensive
+the ivy , the view or los altos grill fit what you are looking for
+here are your options to choose from : the ivy or acorn , or amarin
+choose either the ivy , pepper or los altos grill
+i found three : the ivy , pepper , and sakoon .
+in what location at and what quality restaurant ?
+how about the ivy or boats ?
+what is your price range ?
+what type of food are you looking for ?
+the ivy , .ink , or oren match your preferences .
+what type of food would you like and how much would you like to spend ?
+i found the following places : .ink , the ivy , and ephesus .
+what type of food are you looking for ? what price range ?
+how does the ivy , amarin , or boats sound ?
+ok , near what city or neighborhood ?
+i have three listings , the ivy , evvia , and sakoon .
+what type of meal are you looking for ?
+confirming that you are looking for indian and do not care about the meal . expensive is ok .
+please confirm that : you are interested in indian food and don ' t mind which meal and your price range is expensive .
+please pick from the following : restaurants include high rooftop lounge , amber or angel .
+found another restaurant called the ivy .
+what type ?
+what type of food would you like ?
+is thai correct
+los altos grill meets your request
+would you prefer the ivy or acorn cascal ?
+what price range ?
+in what location ?
+would you prefer the ivy or pompei ?
+ok , what price range , cuisine and location are you interested in ?
+i ' ve found two restaurants you might like : the ivy or the view .
+what price range are you looking for ?
+what looks more interesting : the ivy or oren ?
+the nest , amarin or boats might interest you . say the name of the one you want information on .
+you would like to go to brunch ?
+where are you located and what type of food ?
+ok , please choose from high rooftop lounge , the nest , or cetrella
+sure , what area and how much ? what kind of food are you thinking ?
+yeah , the view , acorn or pompei ?
+how about amber ?
+how about the nest or the view ?
+chinese restaurants are the nest , the view , or boats .
+what price range ?
+what location ?
+okay , how about the hudson room , the nest or cetrella
+what kind of meal would you like and how much do you want to spend ?
+would you like to go to .ink or the nest of amarin ?
+do you have a location preference ?
+what price range are you looking for ?
+how about the nest or cetrella ?
+can you provide preferences for location , price range , and food type ?
+there are three restaurants that fit your description : high rooftop lounge , the nest , or evvia .
+which would you like to choose : high rooftop lounge , the nest , or boats ?
+what is your preference for a location and what price range ?
+would you like .ink the ivy or cascal ?
+how about the nest or pompei ?
+what types of restaurants do you prefer ?
+what is your preference for food type , location and price range ?
+there are three nearby . the nest , evvia or pepper . which would you prefer ?
+so you ' d like to eat chinese food ?
+i found the hudson room , the nest , or cetrella . which one would you like ?
+where should i look , and what type of food ?
+how about pompei ?
+i ' ve found the ivy , the nest , or cetrella
+what kind of cuisine do you prefer ?
+choose from the following : the nest , boats or pompei .
+which type of food , what location , and what price range are you interested in ?
+you can choose from the nest , acorn , or cascal .
+i ' ve found suitable restaurants named acorn , los altos grill , or oren .
+do you want a highly - rated restaurant ?
+i ' ve found suitable restaurants called the nest , acorn , and deep blue .
+lunch , right ?
+what location ?
+okay got it , middletown and expensive .
+im sorry i could not find a restaurant that is good for an expensive lunch in middletown
+okay dinner .
+would you like to go to cascal , deep blue or evvia
+how about boats ?
+how about the ivy , the nest or cascal
+you want to search in yorktown heights ?
+what type of food ?
+i found 3 locations . the hudson room , the nest or the acorn . which would you like ?
+i also found another restaurant called evvia .
+i found 2 restaurants . which would you like ? the nest or pompei ?
+what type of food and price range do you prefer ?
+location preference ?
+we found restaurants the nest or ephesus or sakoon
+what kind of food do you want and what location do you prefer ?
+you can choose between the nest or oren
+what location ?
+what type of food ?
+do you want thai food ?
+what price range ?
+would you like the nest or pepper or sakoon
+what is your price range ?
+what rating , what type of food and in what area ?
+here is a list of places , the nest , amarin or sweet greens
+i ' ve found two , would you like the nest or angel ?
+what cuisine , price range and ratings do you want ?
+do you want me to include expensive restaurants ?
+i found three restaurants that fit your criteria : the nest , cetrella , and ephesus . which one would you like ?
+what type of food and which meal ?
+choose from .ink , the nest or deep blue
+i ' d be happy to assist with that and i found a few possibilities to choose from : los altos grill , pompei , or sakoon .
+what about the nest or cascal ?
+sure . what cuisine do you feel like , what mealtime , and what ' s your budget ?
+would you like to go to high rooftop lounge , the nest , or pompei ?
+where are you looking , and what price range ?
+i found three restaurants . the nest , the view , or oren
+i found the nest or acorn or evvia restaurants to choose from
+do you have any preferences for which meal ?
+do you have a price range preference ?
+choose from these options , the nest or amber
+what about the nest of amber
+i found the nest , deep blue and los altos grill
+high rooftop lounge , the nest or angel
+choose one : high rooftop lounge , the nest or angel
+found a restaurant named amarin
+there are also restaurants named the nest , angel , and boats . please choose one .
+i have found the following greek restaurants in los altos : the nest , boats , or cascal .
+what area would you like to eat in , and what type of food would you prefer ?
+i found three matching restaurants : the ivy , the nest and the view . which would you prefer ?
+i found three : .ink , the nest , and sakoon . which would you like ?
+i have the following options for you : the nest , acorn or amber restaurant .
+i have three listings : the nest , cascal or pompei
+what type of restaurant are you looking for ?
+where are you looking ?
+would you like the nest , deep blue , or evvia ?
+what location are you looking in ?
+sure , would you like the nest , cetrella , or pepper ?
+what cuisine and meal would you like , and do you have a preferred price range ?
+i have found the following restaurants : the nest , the view or amber
+the hudson room , the nest , and cetrella are all cheap restaurant options .
+what is your food preference ?
+what is your price range
+would you like the ivy , the view or acorn ?
+what is your rating preference ?
+can you give me some more specific information ? what type of food are you looking for , what ' s your preferred location and what price range would you like ?
+which of these would you like to choose : the view , amarin , or amber ?
+what rating ?
+would you like the view , evvia or oren .
+how about deep blue
+you might like high rooftop lounge or amarin or evvia
+you might like high rooftop lounge or amarin or evvia
+how about the view
+which restaurant : high rooftop lounge , the view or cascal ?
+ok , would you like the ivy , cascal , or pepper ?
+ok , how about the view or deep blue ?
+what meal , price , and location would you like ?
+would you prefer high rooftop lounge , the view , or angel ?
+what type of price range are you looking for ?
+please pick from the following : the view or pepper .
+sure , i can do that . what kind of meal would you like ?
+i found two restaurants that match . you can choose the view , acorn or ephesus .
+sure , what type of food and price range are you looking for ?
+just to confirm , the price range you want is inexpensive , correct ?
+unfortunately i cannot find an inexpensive greek restaurant in madison .
+yes , there are three : the view , amarin and amber .
+what type of food ?
+there is the view or amarin
+i found the view , acorn , and deep blue
+and where is the location ?
+okay . what type of food , meal , and price range are you interested in ?
+and the restaurant found for you is the view
+what type of food would you like and at what price ?
+i have found three restaurants which meet your specifications : angel , pompei , and sakoon
+i have found three restaurants which meet your specifications : the view , angel , and los altos grill
+here are some options , say : the ivy , the view , or sweet greens
+would you like the view or cascal restaurant
+ok , what price range and in what area ?
+pick from these restaurants : the view , ephesus or oren
+what kind of food are you looking for and in what price range ?
+i found the hudson room , angel , or ephesus .
+what about a restuarant called boats ?
+the place is called the boats .
+here are some restaurants that you can choose from that have good ratings : the hudson room , the view , or deep blue .
+in what location ?
+there are no thai restaurants in middletown with a zagat rated rating .
+i found three in the location . the view , acorn , or sakoon .
+what type of food would you like ?
+what type of food would you like me to find ?
+what city should i look in ?
+okay , i ' ve found high rooftop lounge or the view or pepper
+i found a restaurant named the view
+alright - looking for restaurants in orlando
+what type of food do you prefer
+listing inexpensive italian restaurants
+there are three to choose from - .ink - the hudson room - or the view - which would you like to see
+sure . what type of food and what price range ?
+i have these to offer : .ink or the ivy or the view
+which one would you like , the view , oren , or sakoon ?
+which one would you like , the view , oren , or sakoon ?
+what kind of price range would you like ?
+which would you like . .ink , the view or cascal .
+what city and at what price range ?
+you said you are in redmond and you are looking for moderately priced ?
+there is high rooftop lounge , the view , or deep blue . which would you prefer .
+just want to confirm : you want taiwanese restaurants that are moderately priced ?
+here are some options : .ink , the view , or oren
+i found two , the view or pepper . which do you like ?
+you may choose from the view , pompei , or sakoon
+choose from the following : name of restaurant is acorn or ephesus or oren
+there is the acorn or evvia .
+what is your price range ?
+i found a restaurant called the hudson room .
+did i get this right : you are looking for a greek restaurant with a good rating ?
+are you looking for restaurants with good ratings ?
+choose from the following restaurants : acorn , angel , or cascal .
+you have three options : acorn , angel , or cascal .
+what type of food would you prefer ?
+what type of food would you like to eat ? some examples might be chinese , mexican , etc .
+i have three options : high rooftop lounge , amarin , or deep blue
+here are three more expensive options : acorn , cetrella , or los altos grill
+do you have a location preference and a specific price range ?
+so in orlando for any price ?
+would you like acorn or los altos grill ?
+i found acorn , evvia , or pompei .
+what price range and location ?
+what type of food and what meal ?
+high rooftop lounge , the hudson room , or acorn ?
+ok , what kind of food , price range and rating are you looking for ?
+i found two ; acorn or deep blue . which would you like ?
+sure , what type of food and for what location ?
+please choose between acorn , angel , or evvia for restaurants
+what location do you prefer ?
+what type of food and price range are you looking for ? what about rating ?
+choose the hudson room , acorn , or boats
+where do you want me to look ?
+what ' s your price range ?
+ok , how about high rooftop lounge , acorn , or ephesus ?
+what rating do you want the restaurant to have
+what kind of food ? breakfast lunch or dinner ?
+how about the view , or acorn , or pepper
+what price range are you looking for ?
+what type of food are you looking for ?
+i found the high rooftop lounge , acorn , or los altos grill . which would you prefer ?
+what type of food , and what price range and rating are you looking for ?
+i found three for you : acorn , cascal , or evvia .
+choose one of the following restaurants - the ivy , acorn , or los altos grill
+what type of food would you like ?
+do you have a specific location in mind ?
+do you have a specific location in mind ?
+it looks like the view , acorn or amber are located here .
+yes , where are you located ?
+what type of food are you looking for ?
+there is the acorn and oren .
+what type of food and in what area ?
+there is acorn , amarin , and pepper
+here are 3 restaurants to choose from : .ink , acorn , or sakoon
+what type and price range ?
+i found two , acorn or cetrella
+sure . what kind of food and price range are you looking for ?
+ok . you choices are .ink , acorn or sakoon
+sure . choose between .ink , acorn or sakoon
+what is your price range and preferred location ?
+here are some restaurants , the hudson room , acorn , or amber .
+what area would you like to check for restaurants ?
+what kind of food are you in the mood for ?
+i ' ve found 3 chinese restaurants in middletown : acorn , boats or ephesus .
+the hudson room , the view , or acorn
+what kind of food would you like to eat ?
+what kind of food would you like to eat ?
+there are three restaurants like that , acorn cetrella , or pompei . which one would you want to know more about ?
+do you want to see restaurants in middletown ?
+within what price range ?
+the restaurants that i found include acorn , los altos grill , and sweet greens . which one are you interested in ?
+what is your food type preference ?
+please select from amarin , boats , or oren restaurants
+there are three restaurants available , amarin , boats , or oren . which one would you like ?
+alright for los altos would you like the hudson room or acorn restaurant ?
+okay . in what area and what type of cuisine ?
+here ' s some choices : acorn , cascal or deep blue .
+what is your choice of food and price range
+you have a choice between acorn or deep blue
+ok . here are three to choose from - acorn , amarin or oren .
+your options for restaurants include acorn , boats , or cascal
+sure , how about the ivy ? or perhaps you would prefer acorn or evvia ?
+ok what is the location
+what is you food preference , price range and rating requirements
+how about acorn , deep blue , or oren
+sure , what restaurant would you like
+ok so you would like a reservation at evvia
+8 pm isn ' t available but i can offer at reservation at 6.15 pm
+ok , no reservation was made for friday at 2 pm at evvia
+just to confirm , you would like that for friday at 6 pm ?
+at what restaurant ?
+how many people will it be for ?
+6 pm is not available , but there are openings at 7.30 pm , 8 pm , or 8.30 pm .
+your reservation is confirmed for friday , 7.30 pm at los altos grill for 3 people .
+for how many ?
+what day ?
+what day ?
+no options for 7.15 pm . you can choose from 5 pm , 7 pm , and 8 pm are available though .
+there are no other options for your party tomorrow .
+there are no options for 6 pm . you must choose between 5 pm or 7 pm .
+your reservation for 6 at cheese cake factory at 5 pm tomorrow is set .
+how many people will be attending ?
+what is the name of the restaurant ?
+you want a reservation for 6 people for the cheese cake factory on next monday at 7 pm . is this correct ?
+alright . your reservation for the cheese cake factory for 6 people on next monday at 7 pm is confirmed .
+what date do you want to reserve it for ?
+what is the name of the restaurant and how many people is the reservation for ?
+to confirm , the restaurant is ephesus and it is for 5 people
+a reservation isn ' t available at 6 pm but 7 pm or 8 pm is available
+a table for 5 at ephesus has been reserved for 8 pm tonight
+what day , how many people , and at what restaurant ?
+what time ?
+8 pm won ' t work . i can make a reservation at 6 pm .
+i cannot make you this reservation
+ok , for what restaurant and for how many people ?
+just to confirm , the restaurant is oren hummus , and the reservation is for 3 people .
+for what time ?
+for what day ?
+just to confirm , you want reservations for 3 at oren hummus tomorrow at 7.15 pm ?
+ok , reservations made for 3 at oren hummus tomorrow at 7.15 pm .
+how many people
+what restaurant ?
+oren hummus is that right ?
+what is the date ?
+is friday the correct date ?
+7.15 pm is unavailable , i have a reservation available for 7.30 pm
+cannot complete your requested reservation
+ok , lets find you a place to eat . i have the following for you to choose from .ink or the nest or amarin
+ok . at which restaurant ?
+cetrella ?
+for how many ?
+reservation for 4 ?
+i can ' t confirm a reservation for 8 pm , how about 7.30 pm ?
+ok , cancel that reservation .
+what time would you prefer : 6.15 pm , 7 pm , or 7.15 pm ?
+ok , cancelling cheese cake reservations .
+ephesus ?
+nothing available for 8 pm how about 5 pm , 6.15 pm or 8.30 pm ?
+cancelling request .
+nothing available for 8 pm . how about 6.15 pm , 7 pm or 8.30 pm ?
+how about 6 pm ?
+ok , reservations for 4 at ephesus , 6 pm tonight .
+you said friday at 5.30 pm correct
+what is the restaurant name and for how many people ?
+reservation not available at 5.30 pm , available at 5 pm , 7 pm or 7.30 pm
+cannot make reservations at cascal for 5 people at 5 : 30 pm on friday
+okay 8 pm
+how many people and which restaurant
+which day
+okay next monday at 8 pm with il fornaio with 4 people
+reservation is confirmed
+how many people and what restaurant would you like ?
+6 pm isn ' t available but you can choose 6.30 pm 7 pm or 7.30 pm
+your reservations is confirmed for 6.30 pm tonight at il fornaio for 4 people
+ok - where would you like to make your reservation ?
+on what date would you like to make the reservation - and for how many people ?
+for what time would you like to make the reservation ?
+ok - shall i ' ll make that reservation 8 pm ?
+8 pm is unavailable . please choose another time . 6.15 pm , 7.15 pm and 8.30 pm are available
+how about a 6 pm reservation ?
+i can make a reservation for you for 6 pm . will that work ?
+your reservation is complete . the sushi boat is expecting 5 people for 6 pm on wednesday
+what food type and price range ?
+you have the choice of the nest or angel or sakoon .
+can you tell me your price range ?
+ok , i have the ivy , cascal or cetrella , which would you prefer ?
+i found 3 , the ivy , cascal , and cetrella . which one would you like ?
+what restaurant ?
+there were no reservations available for 6 pm , but i can make reservations for 7 pm .
+i ' m sorry . the reservation requested is unavailable .
+where would you like to go and how many people will be attending ?
+what date is this for ?
+what time ?
+i ' m unable to book for 5.30 pm , how about 5 pm or 6 pm ?
+how about 6.30 pm , 7.30 pm , or 8.30 pm ?
+i was unable to complete the reservation for 5 people at the cheese cake factory on wednesday
+i can ' t book amarin for 5 people on wednesday
+what day
+where
+what time
+that isn ' t available . would you like 7.30 pm or 8 pm ?
+next monday for 5 people is not available
+what is the name of the restaurant ?
+there are no available reservations for pompei on wednesday for 3 people .
+there are no reservations for evvia at 7.30 pm , but reservations are available at 5 pm . 6 pm , or 6.30 pm .
+no reservations for evvia on wednesday for 3 people meet your criteria .
+ok , where would you like to make the reservation ?
+did you say cetrella ?
+on what date would you like to make the reservation for and for how many people ?
+there is no reservation 8 pm . how about 6.30 pm or 8.30 pm ?
+i was not able to make you a reservation .
+what time and date would you like the reservation for ?
+what time and day would you like to visit the restaurant ?
+you said 7.15 pm ?
+how many people are going , and which restaurant would you like ?
+you need the reservation for 3 people ?
+you need to book for 3 people
+just to confirm , you would like a reservation at pompei for tomorrow at 7.15 pm for 3 people ?
+your reservation has been made .
+what time ?
+oh , need to know how many people , what date and at which restaurant .
+would you prefer 6.30 pm or 8.30 pm ?
+i ' m sorry . i need a time .
+what day ?
+how many people ?
+what restaurant ?
+no reservations available at 8 pm , but 5 pm and 6.15 pm are available .
+i couldn ' t make your reservation .
+no reservations available at 8 pm tomorrow , but 6.30 pm , 7 pm and 8.30 pm are available .
+how about 5 pm ?
+reservation confirmed for tomorrow at 5 pm for 5 people at sumiko .
+to confirm , the reservation should be 7.15 pm ?
+okay , how many people ? and for which restaurant ?
+okay , how many people ? and which restaurant ?
+okay , and what day would you like to reserve a table for ?
+i have reservations at 6.15 pm , 6.30 pm , 7.30 pm or 8.30 pm . do any of those times work ?
+okay , how about 5 pm ?
+how about 5 pm ?
+okay , i have a reservation for 3 people on friday , at 5 pm at sushi boat
+how many people ?
+how many people ?
+i ' m going to make a reservation at oren hummus for next monday at 6 pm . is that correct ?
+reservation is confirmed
+ok , is the correct time 7.15 pm ?
+ok , what is the name of the restaurant you ' d like to go to ?
+unfortunately , there is nothing available for 7.15 pm . would you like 6 pm , 7.30 pm or 8 pm instead ?
+i ' m sorry , i was unable to make this reservation .
+just to recap , you want a reservation at sakoon on friday at 6 pm . is that correct ?
+ok , your table is booked .
+at which restaurant , what day and how many people
+7.15 pm is unavailable , choose from 6.15 pm or 6.30 pm
+failed to make a reservation on friday for 6 people at sumiko
+did you have a location or price range in mind ?
+ok , so moderately priced in yorktown heights , got it .
+i have three options for you : .ink , cetrella or ephesus .
+ok , what restaurant would you like and for what time ?
+there are three times available , 6 pm , 7 pm or 7.30 pm
+ok , i am going to have trouble making the reservation without a time .
+ok , next monday at 7.30 pm for 5 people at amber india . is this correct ?
+ok , your reservation is confirmed for amber india next monday 7.30 pm for 5
+for how many people ?
+for what time and at what restaurant ?
+the restaurant is called amarin ?
+what kind of food do you want ?
+found a couple , boats or cascal
+for where and for what size party
+sumiko restaurant ?
+what time and day would you like
+next monday at 7 pm ?
+okay , reservation for 4 at sumiko for next monday ?
+you got i . you have a reservation set for 4 on next monday at sumiko for 7 pm
+what is the restaurant ?
+there are no reservations available for 8 pm , would you like 6.15 pm or 7 pm ?
+i ' m sorry to say that reservations aren ' t available for friday at cetrella for a table of 4
+sure , for what location and price range ?
+so you want to look in orlando
+what type of food would you like ?
+sorry , i ' m not able to find indian restaurants in orlando which are inexpensive .
+i have vietnamese food . is that right ?
+okay , i found amarin , cetrella or oren . would like to pick one of these ?
+where ? and for how many people ?
+4 people . is that correct ?
+what ' s the name of the restaurant ?
+you want to make a reservation for 4 people tonight at 7 pm at sushi boat . is that correct ?
+alright . i made you a reservation for 4 people tonight at 7 pm at sushi boat .
+what is the price range ?
+which one do you want , .ink , acorn or los altos grill ?
+for how many people do you need to book the table ?
+where and when ?
+at what restaurant and at what time of day ?
+on what day ?
+please choose from at 6 pm , 7 pm or 8.30 pm .
+unfortunately those are the only openings next monday for 5 people at cetrella , .
+which restaurant ?
+please confirm a reservation for 5 at pompei for tonight at 7.15 pm
+i ' ve confirmed your reservation for 5 at pompei for tonight at 7.15 pm
+you said 6 pm , right ?
+how many people and which restaurant ?
+what time and date ?
+unfortunately , 6 pm is not available . is 8.30 pm okay ?
+confirmed for wednesday at 8.30 pm at sakoon for 6 people
+what restaurant do you want ?
+you said 7.30 pm , right ?
+how many people will be joining you ?
+there are no 7.30 pm reservations available . i can do 7.15 pm . is that okay ?
+7.30 pm is already booked solid . there have a 7.15 pm available . would that be acceptable ?
+unfortunately , i can ' t get a reservation for the time you want for 3 , tomorrow at pompei .
+what date , how many people , and name of restaurant please
+7.15 pm is not available , how about 5 pm , 6 pm , or 7.30 pm
+reservation confirmed for 7.30 pm tonight at sushi boat for 5
+wednesday at 6 pm for 6 people ?
+what restaurant ?
+los altos grill ?
+you want a reservation at los altos grill at 6 pm on wednesday for 6 ?
+ok , booking complete - thanks !
+what ' s the date ?
+where and how many people ?
+what time and date ?
+sorry , that time is not available . how about 5 pm , 8 pm or 8.30 pm ?
+friday at 7 : 30 pm 5 at ephesus is not available .
+sure , for how many people
+is 6 people correct ?
+for which restaurant and at what date and time would you like reservations ?
+is wednesday night at 7.30 pm at cascal for 6 people correct ?
+ive confirmed a reservation at cascal for wednesday night at 7.30 pm for 6 .
+which restaurant would you like to make the reservation at ?
+they do not have one available for 7.15 pm but 6.30 pm , 7.30 pm , and 8 pm are available if you would like one of those .
+no reservation has been made for evvia on wednesday for 4 guests
+they do not have 7.15 pm available , but instead can offer 6 pm , 7 pm , or 7.30 pm .
+no reservation has been made at ephesus on wednesday for 4 people
+you would like a reservation at ephesus for wednesday at 6 pm for 4 guests ?
+your reservation has been made .
+what restaurant rating ?
+what restaurant rating ?
+what type of food and location ?
+there are three to choose from : .ink or pompei or sakoon
+for what date do you need a reservation ?
+the date needed is tomorrow , correct ?
+what time and for how many people
+what restaurant do you need a reservation for
+ok so you need a reservation at amber india tomorrow at 7.15 pm for 2 people . is that correct
+ok , table is booked
+what would you like to eat , in what area , and what ' s your price range ?
+the options are the nest , deep blue , or ephesus
+you said 7.30 pm , right ?
+what ' s the name of the restaurant and how many people will be in your party ?
+what ' s the date ?
+7.30 pm is not available . the times that are available are 5 pm , 6.15 pm , 7.15 pm and 8.30 pm . are any of those good for you ?
+the reservation you wanted is not available unfortunately .
+you are looking for lunch , right ?
+what kind of food type and price range are you interested in ?
+so you want inexpensive taiwanese food located in mountain view ?
+so you want inexpensive taiwanese food located in mountain view ?
+there are three restaurants to choose from . the view , boats , or cascal .
+ok , what restaurant would you like ?
+a reservation is not possible for that restaurant at that time .
+ok , you want a reservation for 5 for next monday at 8 pm at cetrella , correct ?
+your reservation is confirmed for 5 on next monday at 8 pm at cetrella .
+what is the name of the restaurant
+how many people will be in your party
+what time would you like the reservation made for
+i wasn ' t able to help because i didn ' t hear a time
+how many people will be going and to which restaurant ?
+you said 2 people at amber india ?
+what day ?
+they don ' t have one available for 8 pm , but they do have 6.30 pm open
+no reservation has been made
+ok , what date and time would you like the reservation to be for ?
+so you don ' t care about the time correct ?
+how many people is the reservation for ?
+what is the name of the restaurant you want a reservation at ?
+would you prefer 6.30 pm or 7.30 pm ?
+how many people and where ?
+so sakoon for 5 , correct ?
+what is the name of the restaurant ?
+what date and number of people ?
+7.15 pm declined , 5 pm , 6 pm 7.30 pm and 8.30 pm are open .
+i ' ve confirmed your reservation for wednesday at 8.30 pm for 6 people and amber india
+how many people and what time
+that was 5 people ?
+what restaurant and date do you want the reservation for ?
+they do not have a reservation for 7.15 pm , they can offer a reservation at 8.30 pm , does that work
+i was unsuccessful getting you a reservation for 5 people tonight at pompei
+how many people should i make the reservation for ?
+what is the name of the restaurant ?
+what is the date of the reservation ?
+i cannot make you a reservation for tomorrow at 7.15 pm . there are reservations available at 6.15 pm , 6.30 pm , or 8 pm .
+i have made the reservation for tomorrow at 6.30 pm for 5 people at sumiko .
+what restaurant do you want to reserve a table at ?
+the 7.30 pm time is unavailable , please choose from the following times : 6 pm , 7.15 pm , or 8 pm
+unable to reserve tables using current details .
+please confirm your reservation is for evvia on friday at 7.30 pm with 6 people .
+your reservation has been confirmed with the following details : evvia on friday at 7.30 pm with 6 people .
+sure , on what date are you interested in going ?
+what ' s the name of the restaurant and how many people will you have ?
+i ' m sorry but 7.15 pm isn ' t available . is 5 pm or 6.15 pm okay for you ?
+i can ' t set up your friday reservation at cascal for the 2 of you
+you said you ' re interested in los altos grill ?
+there ' s nothing available for 7.15 pm here either . i have 6.15 pm , 6.30 pm , and 7.30 pm available
+how about 5 pm ?
+alright , so i have 2 set to eat at los altos grill on friday at 5 pm
+ok , i will need the number attending and name of the restaurant
+7 pm is not available , does 6.15 pm , 7.15 pm , or 8.30 pm work ?
+ok , reservation has been set for wednesday at 6.15 pm at oren hummus for a party of 5
+how many people ?
+how many people are in your party ?
+what ' s the name of the restaurant ?
+the time of 8 pm is unavailable but you can choose from the following times of 6.15 pm or 6.30 pm or 7 pm
+i can book a reservation for 5 pm
+i can offer a reservation for 5 pm
+i can offer a reservation for 5 pm
+the requested reservation for 3 people at the amarin restaurant for wednesday is not possible
+i can ' t make your reservation for 3 people at the amarin restaurant for wednesday .
+what type of restaurants ?
+i found 3 , cascal , ephesus and sweet greens
+what date will you be needing the reservation for
+what is the name of the restaurant
+who many people will be in your party
+i wasn ' t able to make the reservation for 6 pm but there is a table available at 6.30 pm
+i ' ve made the reservation at the sushi boat for friday at 6.30 pm for a party of 5
+how far are you willing to travel ?
+what type of food are you in the mood for ?
+here are some choices for you ; how do you feel about the view , cetrella , or deep blue ?
+choose from two restaurants called los altos grill or pompei
+i could not find any other restaurants in yorktown heights that are moderately priced .
+choose between amber or los altos grill or pepper
+those are the only restaurants i found in yorktown heights with expensive prices .
+choose between the restaurants called .ink and sakoon .
+how many people and what time ?
+on what date and where ?
+is that evvia ?
+it ' s not available at 8 pm , only at 6 pm , 6.15 pm or 7.15 pm
+there ' s no resevation available for that date and time
+okay , what time ?
+i can make a reservation at 6 pm . is that okay ?
+okay , made the reservation .
+what kind of food type do you want , in what price range , and for which meal of the day ?
+would you like amarin , angel or deep blue ?
+what is the name of the restaurant ?
+for how many people would the reservation be ?
+and for what time ?
+you mean you don ' t know when you want the reservation for ?
+there are some times like 6.15 pm or 6.30 pm or even 7.30 pm .
+then unfortunately i will not be able to make a reservatioin for tonight at oren hummus .
+these are the times tonight : 6 pm , 7.15 pm or 7.30 pm .
+i cannot make a reservation for wednesday at the oren hummus without a time .
+what restaurant please ?
+so wednesday at evvia
+for how many people
+so wednesday at evvia at 7.15 pm for 6 people
+i ' ve confirmed your reservation at wednesday at evvia at 7.15 pm for 6 people
+reservation is confirmed on wednesday at evvia at 7.15 pm for 6 people
+please tell me the date and the number of people in your party
+next monday for 2 people ?
+which restaurant
+sorry there are no reservations available for that time . how about 5 pm , 6 pm or 6.30 pm ?
+i was unable to set your reservation
+sure , what restaurant do you want to go ?
+what time should i reserve it for ?
+sure , how many people do you want me to reserve for ?
+what date did you want to make the reservation for ?
+just to confirm , did you say next monday ?
+sorry , 7.15 pm is unavailable on next monday october 24 . would you want to do 6.15 pm , 6.30 pm or 7.30 pm instead ?
+okay sure . i ' ve successfully made your reservation at the sakoon for 5 on next monday october 24 at 6.30 pm
+ok , for which restaurant , how many people , and on what date ?
+at what time ?
+yep , at 6 pm
+change this to 6.15 pm or 8 pm .
+so i ' ve confirmed pompei next monday at 8 pm with 5 people .
+please provide the number of people and the name of the restaurant
+please provide the number of people and the name of the restaurant .
+and the date for your reservation ?
+i ' m sorry but 7.30 pm is not available . you may choose either 5 pm , 6.15 pm or 8.30 pm .
+i could not make the reservation .
+what restaurant would you prefer
+what time slot
+please choose a time , 7 pm , 7.15 pm , 8.30 pm
+cetrella is not available next monday for 4
+7.15 pm , 7.30 pm , or 8.30 pm
+i can ' t confirm party of 4
+what time , 6 pm , 6.30 pm , or 8.30 pm
+i can ' t complete the reservation , sorry
+5 pm or 8 pm
+reservation is not available
+6 pm , 7 pm , or 7.30 pm ?
+restaurant is not available then
+6 pm , 7.15 pm , or 7.30 pm
+not open then
+what city do you want to eat in ?
+what kind of food would you like to eat and do you have a rating preference for the restaurant ?
+ephesus serves chinese food .
+i have two choices for you : the view and amber .
+i did not find any other choices for dinner at an expensive chinese restaurant in mountain view regardless of rating .
+i found evvia .
+okay . what restaurant ?
+what day did you want to make the reservation ?
+okay . what time , and how many ?
+i ' m sorry , reservations were not available for 8 pm . there are openings between 5 pm and 6.30 pm .
+there are no reservations available for 4 people , next monday at cascal .
+do you want to change the reservation to tomorrow at 8 pm for 4 people at cascal ?
+reservation confirmed for tomorrow at 8 pm , table for 4 at cascal .
+sure . what area do you prefer ?
+you want a restaurant in middletown ?
+what type of food and price range do you prefer ?
+how about the ivy , amarin or cascal ?
+what restaurant ?
+for how many ?
+7.15 pm is not available , but 8 pm is
+there are no openings on wednesday for 4 at cetrella
+you said 8 pm ?
+on what date would you like to go and which restaurant would you like to go to
+how many people
+you said 3 people , correct ?
+sorry , there are no reservations for 8 pm . would 6.30 pm , 7.15 pm or 7.30 pm work ?
+sorry there are no reservations for 3 at 8 pm next monday at sumiko
+ok so tomorrow 8 pm for 3 at sumiko
+your reservation for 3 tomorrow at sumiko is confirmed
+i have found two . please select which restaurant : the view , or amarin .
+what day would you like to go ?
+what ' s the name of the restaurant
+you said sushi boat ?
+how many people should i reserve the table for
+3 , is that correct ?
+what time would you you like the reservation for
+how about 7 pm or 8 pm
+i can ' t make a reservation at sushi boat next monday for 3 people
+how about 6.30 pm , 7.15 pm or 8.30 pm
+how about a table at 7 pm
+ok , i booked a table for next monday at 7 pm for 3 people at cetrella
+what day and howw many people
+what day and how many people
+which restaurant
+please confirm the reservation is for 3 people at 6 pm wednesday at sumiko
+confirmed your reservation is for 3 people at 6 pm wednesday at sumiko
+sure , what type of restaurant and what price range ?
+okay . i found found three restaurants for you . boats , oren , and sakoon .
+please confirm that the date is tomorrow and the time is 5.30 pm
+provide the number of people and the name of the restaurant
+5.30 pm time is not available , choose from one of the following available times : 5 pm or 6 pm
+how about 6.15 pm or 7.30 pm ?
+reservation not possible for details : date is tomorrow and number of people is 3 and name of restaurant is ephesus
+reservation is not possible for tomorrow at ephesus for 3 people
+5.30 pm time is not available , choose from one of the following available times : 5 pm , 6 pm or 7 pm
+reservation not possible for details : date is wednesday and number of people is 3 and name of restaurant is ephesus
+in what city ?
+what type of food would you like ?
+i have found the following restaurants : acorn , cascal or cetrella
+which restaruant and how many people should this be for ?
+ok , a reservation for 6 people on friday at 7.15 pm at oren hummus
+its all set !
+how many people and at which restaurant ?
+there is no table available for 7.15 pm they do have 6.15 pm 7 pm or 7.30 pm
+i can do 5 pm
+i can book for 5 pm
+you are book for a party of 5 for oren hummus at 5 pm
+which restaurant ?
+how many people ?
+confirming your reservation at cascal at 8 pm on friday for 4 people
+your reservation at cascal on friday at 8 pm for 4 people is confirmed
+for how many people ?
+what day and restaurant ?
+please confirm that the reservation is for tomorrow at 7.30 pm for amber india for 5 people
+your reservation is confirmed for tomorrow
+tell me how many people are going and the name of the restaurant you would like to go .
+did you say 2 people ?
+tell me the date of the reservation .
+i cannot reserve at 8 pm . you can choose between 6 pm , 6.30 pm , and 7.30 pm .
+cannot reserve a table for 2 on wednesday at cetrella .
+do you have a preference on the type of food and / or price range ?
+i can suggest either amber , cetrella , or deep blue
+how many is this for ?
+how many people ?
+ok , that will be reservations for 2 at amber india ?
+i ' m sorry , 7 pm isn ' t available , i do have 5 pm , 6.15 pm or 8.30 pm .
+ok , i have you reserved for 2 , tomorrow at amber india for 8.30 pm .
+did you say you needed this for 8 pm ?
+how many people do you need the reservation for ?
+please provide the name of the restaurant and date of the reservation ?
+okay , friday night at the cheese cake factory . is that right ?
+just to confirm , you would like a reservation for friday at 8 pm at the cheese cake factory for 2 people .
+ok . your reservation has been confirmed . thank you
+tomorrow at 7 pm ?
+how many people ?
+4 people ?
+what restaurant ?
+reservation at ephesus for 4 people tomorrow at 7 pm ?
+no reservations are available for the requested time , date , restaurant , and number of people
+your reservation is set for tomorrow at 7 pm at sakoon for 4
+what date do you need to reserve
+how many people do you need to book and for what time ?
+how many people do you need to book and for what time ?
+can you confirm 5 people will be there
+can you confirm you need a reservation for 5 people
+what restaurant do you need to book ?
+8 pm is not available . available times are 7 pm , 7.15 pm , or 7.30 pm , which would you like to book ?
+5 pm is available
+i cannot book friday at any other time for 5 people at evvia
+8 pm is not available . 6.15 pm , 7.30 pm or 8.30 pm are available , which time would you like to book ?
+5 pm is available
+your reservation is booked for next monday at 5 pm at evvia for 5 people
+you want to reserve a table for 5 at ephesus for tomorrow
+so you ' d like a reservation for friday at 7.15 pm for 3 at pompei ?
+it looks like 7.15 pm is not available . would you like to choose 6.15 pm or 7 pm ?
+i ' m sorry , the reservation is not currently available .
+what is the restaurant ' s name and what date would you like to reserve a table for ?
+what time would you like to make the reservation and for how many people ?
+great , so that ' s a table for 2 for 7.15 pm tonight at oren hummus ?
+i ' m pleased to tell you that your reservation has been successfully made
+is 7.30 pm correct ?
+what is the name of the restaurant ?
+how many guests ?
+what date ?
+i can ' t set a time for 7.30 pm , what about 6.15 pm or 7.15 pm pm ?
+i can ' t set a reservation for 6 next monday at cascal
+is tomorrow the correct day ?
+sorry , i can ' t set a reservation for 7.30 pm , is 7.15 pm alright ?
+i can ' t set a reservation for 6 guests next tomorrow at cascal
+the restaurant ' s name is sakoon , correct ?
+i can ' t set a reservation for 6 next tomorrow at sakoon
+this would be for how many people and at what restaurant ?
+to confirm , you want to make a reservation for 2 at sumiko restaurant for 8 pm tonight ?
+great news ! i have successfully made the reservation for 2 at sumiko restaurant for 8 pm tonight .
+what is the name of the restaurant ?
+you would like to book a table for 5 at los altos grill tomorrow at 8 pm ?
+okay , i booked a 5 person table at los altos grill tomorrow at 8 pm
+what ' s the restaurant name ?
+no tables available for 6 pm . you can choose from 5 pm , 6.30 pm , or 7.15 pm
+reservation confirmed
+what is the name of the restaurant ?
+just to confirm , you want the reservation for 3 people next monday ?
+what is the name of the restaurant ?
+the restaurant is named pompei , correct ?
+ok . you want a reservation for 3 people at 7.15 pm next monday at pompei .
+reservation complete .
+what time ?
+on what date , for how many people and at what restaurant ?
+is 5 people correct ?
+7.15 pm is not available . would 8.30 pm be okay ?
+a reservation cannot be made at sumiko on wednesday for 5 people
+is the reservation at sumiko for 5 people tomorrow night at 7.15 pm correct ?
+your reservation has been made
+your reservation has been made
+what kind of price range are you looking for ?
+would you prefer cascal or los altos grill ?
+alright , how about .ink , amarin , or cetrella ?
+of course , can you please provide me with the type of food you would like to eat ?
+yes . can you please tell me what kind of food you ' d like to eat ?
+at what location would you like to eat ?
+okay . i have found 2 . the first is los altos grill and the second is pepper .
+what ' s the date ?
+ok , how many people , and for which restaurant ?
+7.15 pm reservation isn ' t available . would you like 5 pm , 6 pm or 6.30 pm ?
+i ' m afraid a reservation is not possible at the time you want at amarin .
+sorry , they don ' t have a 7.15 pm spot open . how about 6 pm , 7 pm , 7.30 pm or 8.30 pm ?
+how about 5 pm ?
+alright , your reservation for 4 people at los altos grill tonight at 5 pm has been confirmed .
+you want this for wednesday at 7.15 pm , correct ?
+how many people is on this reservation and what restaurant ?
+a reservation for 4 at the cheese cake factory , correct ?
+i ' m making a reservation for 4 on wednesday at 7.15 pm at the cheese cake factory , correct ?
+the reservation is confirmed at cheese cake factory at wednesday at 7.15 pm for 4 .
+your reservation is confirmed at cheese cake factory at wednesday at 7.15 pm for 4 .
+where would you like to go and how many in your party ?
+how many do you need the reservation for and for what restaurant ?
+they only have 6.15 pm , 7 pm or 7.30 pm open for that day .
+il fornaio doesn ' t have an opening for 6 tomorrow at that time .
+friday the only times available is 6.15 pm or 6.30 pm .
+sorry , there is nothing available for friday at il fornaio for 6 .
+what time ?
+sorry , i can ' t reserve that table
+which restaurant : angel , evvia , or sweet greens ?
+which restaurant : angel , evvia , or sweet greens ?
+in what area ?
+at angel , ephesus or evvia ?
+sure , for which restaurant and for how many people ?
+there are no reservations available for 7.15 pm ; how about for 6 pm ?
+there are no reservations meeting all of your criteria
+how many people will there be ?
+yes , 4 .
+which restaurant do you want ?
+did you say cetrella ?
+i ' m sorry , but 6 pm is not available . the available times for cetrella are 6.15 pm or 7.15 pm
+ok . alternate reservation times are 7.30 pm or 8.30 pm
+ok . your reservation is confirmed for cetrella next monday at 7.30 pm for 4 people .
+where would you like to go and how many people ?
+so , you need it for 3 people at oren hummus wednesday at 7.15 pm
+your reservation has been confirmed
+just to confirm cetrella next monday for 4 at 7.15 pm ?
+success , i ' ve booked your table for 7.15 pm next monday at cetrella for 4 people
+number of people and name of restaurant please .
+what time ?
+ok , 6 pm . is that correct ?
+tell me the restaurant , the number of people and the date you want the reservation
+what restaurant ?
+ok , reservation for next monday 6 pm at pompei for 5 people . is that correct ?
+ok , confirmed your reservation for next monday 6 pm at pompei for 5 people .
+what date and time do you need this for and what is the name of the restaurant ?
+how many people do you need to book the table for ?
+sorry , there are no reservations available friday and time for 4 people at cetrella
+sorry , that day and time is also unavailable
+please confirm that you want tomorrow
+okay , please choose one of these times : 5 pm , 7.30 pm , or 8 pm
+sorry , there are no reservations available at cetrella tomorrow for 4 people
+will this reservation be for tomorrow at 6 pm for 4 people ?
+your reservation is confirmed for tomorrow at 6 pm for 4 people at cascal
+which restaurant ?
+how many people ?
+7.15 pm is not available . does 6 pm , 8 pm or 8.30 pm work for you ?
+i can ' t make a reservation based on your requirements .
+cetrella isn ' t available at 7.15 pm . would 6 pm or 6.30 pm work for you ?
+i can ' t make a reservation based on your requirements .
+you said , at 6 pm , right ?
+okay , what day and how many people ?
+okay , which restaurant ?
+i ' m sorry , i can ' t make a reservation for 4 at amber india for 6 pm on next moday night
+for what day ?
+i ' m not sure i got that right , did you say friday ?
+at what time ?
+did you say reservations for 5 ?
+unfortunately i couldn ' t get reservations at pompei on friday
+please provide name of the restaurant
+7.30 pm declined . please choose from the following times : 6.15 pm , 6.30 pm , 7.15 pm or 8.30 pm
+a reservation for the time you requested is not available .
+7.30 pm is not available . please choose from the following times : 5 pm , 6 pm , 6.30 pm or 8.30 pm
+reservation for friday at 7 : 30 pm , number of people 4 at the restaurant sakoon as requested is not available .
+please provide the date and name of the restaurant .
+how many people will be in your party ?
+confirm that the number of people is 3 , the date and time is for tonight at 8 pm , and the name of the restaurant is amber india .
+your reservation for a party of 3 is confirmed for 8 pm tonight at amber india .
+sure , what restaurant ?
+7.15 pm is not available , how about 6 pm or 6.30 pm ? also , 8 pm is available .
+great , i have made you a reservation for 5 at sumiko . it ' s on friday at 8 pm .
+sure , what day and time ?
+how many people will be in your party and what time would you like to reserve ?
+i am unable to make a reservation for evvia for 6 on wednesday
+when and where would you like to go
+how many people
+confirm restaurant reservation for wednesday . 7.30 pm at evvia for 3 people
+your reservation is all set
+what date and time would you like the reservation for ?
+so you want a reservation for next monday at 6 pm ?
+for how many people ?
+at which restaurant ?
+so you want a reservation for 5 people at pompei next monday at 6 pm ?
+i will make a reservation for 5 people at pompei next monday at 6 pm .
+sure , what restaurant do you want to make a reservation at ?
+how many people do you need a table for ?
+i ' m unable to make a reservation for 7.15 pm , but i can get you a reservation for 7 pm . will that work ?
+i ' m unable to make a reservation at oren hummus om friday for 3 people .
+i ' m unable to reserve a table for the time slot of 7.15 pm , but i can get 6 pm , 7 pm or 8 pm . will any of those time slots work ?
+i ' m unable to make a reservation for next monday for 3 people at oren hummus . do you have another date in mind ?
+sure . which restaurant and for how many people ?
+great . and you would like the reservation at amber india ?
+what day would you like to make your reservation ?
+you would like the reservation for tonight . is that right ?
+i ' m sorry . 6 pm is fully booked . amber india has openings tonight at 5 pm , 7.30 pm , and 8.30 pm . would you like to reserve one of these slots ?
+great . i have a table reserved for 6 for you tonight at 8.30 pm at amber india .
+sure . your reservation for 6 is confirmed for 8.30 pm tonight at amber india .
+which restaurant and at what time ?
+how many people ?
+7 pm is not available , how is 5 pm , 6 pm or 7.30 pm ?
+ok , you ' re confirmed for 5 people at 7.30 pm wednesday at oren hummus .
+high rooftop lounge , cascal or the nest
+you need it for 8 pm ?
+you need it for 8 pm ?
+for how many people and where ?
+i can ' t get one at 8 pm , but i can at 6 pm
+then i can ' t make a reservation for wednesday for 2 people at amarin .
+i can ' t make a reservation for wednesday for 2 people at amarin .
+what is the date and the name of the restaurant ?
+how many people are going ?
+please confirm your reservation for 2 people on wednesday at amber india
+what is the name of the restaurant , the time you would like to go , and the number of people that will be going with you .
+what date ?
+confirm the date is wednesday
+5.30 pm is unavailable . they have openings at 7.15 pm , 7.30 pm , and 8 pm
+a table for 2 wednesday at il fornaio is not possible
+do you want it for next monday at 7 pm ?
+for how many people .
+which resturant would you like to go to ?
+i couldn ' t get 7 pm , would you want it for a different time ? either 5 pm , 7.30 pm or 8.30 pm
+ok so i have a reservation for you at 7.30 pm next monday at oren hummus for 6 people
+you want to reserve a table for 5 at ephesus for tomorrow
+ok ! how many people and what restaurant ?
+what time shall i make your reservation ?
+just making sure . you said 7.15 pm ?
+what day shall i make the reservation ?
+i ' m sorry but 7.15 pm is taken . however there are other times available . 5 pm , 6.30 pm , 7 pm or 8.30 pm
+i ' m afraid then that a reservation for next monday at amarin for 6 people is not possible then
+i ' m sorry but 7.15 pm is taken . however there are other times available . 6 pm , 6.15 pm or 7.30 pm
+alright ! i have made a reservation at amarin for 7.30 pm tonight for 6 people .
+how many in your party ?
+what restaurant would you like ?
+confirm the reservation for next monday at 7.15 pm for a party of 6 .
+this reservation is confirmed for next monday at 7.15 pm for a party of 6 .
+can you give me the date and the restaurant name
+can you confirm the friday and ephesus again
+what time and how many people please
+please confirm the time is 7.30 pm
+restaurant name ?
+you said 6 pm is that correct ?
+how many people is this reservation for , for what date and what restaurant ?
+you said the reservation was for 5 people is that correct ?
+im sorry but there are no tables available at 6 pm . there are open tables at 5 pm or 7 pm .
+great , you have booked a table for 5 people on wednesday at the restaurant sushi boat for 5 pm .
+confirm that time is 7.30 pm and name of restaurant is sakoon and number of people is 5
+reservation was declined for 7.30 pm . you can choose from the following : times : 6.30 pm or 8 pm or 8.30 pm
+reservation is not possible for friday at sakoon for 5 people at 7.30 .
+reservation was declined for 7.15 pm . you can choose from the following : times : 6.30 pm or 8 pm or 8.30 pm
+reservation is not possible for friday at sakoon for 5 people
+confirm that date is friday and time is 7.15 pm and name of restaurant is amarin and number of people is 5
+reservation confirmed at amarin for 5 people at 7.15 pm
+sure , on what date would you like to go ?
+how many people for the reservation ? what ' s the name of the restaurant and what time do you want to go ?
+okay , great , the number of people is 6 , the date is tomorrow , the name of the restaurant is sakoon , and the time is 8 pm . correct ?
+great , your reservation is confirmed . details are 6 people , dated for tomorrow , at sakoon restaurant at 8 pm .
+what ' s the restaurant ?
+how many people
+7.15 pm is not available , please choose between 6.15 pm , 7 pm or 8.30 pm
+confirmed your reservation for wednesday at 8.30 pm for 4 people at los altos grill
+what time and where ?
+would you like 6.15 pm or 7.15 pm or 8 pm
+would you like 6.15 pm or 7.15 pm or 8 pm
+would you like 6.30 pm or 8.30 pm ?
+can ' t do friday for 4 at pompei
+would you like 5 pm or 7 pm or 7.30 pm
+can ' t do friday for 4 at the cheese cake factory
+times are 5 pm or 7.15 pm or 7.30 pm
+can ' t do wednesday for 4 at the cheese cake factory
+would you like 5 pm 7.15 pm 8.30 pm
+6.30 pm is available
+wednesday at 6.30 pm at il fornaio for 4 it is
+what type of food , ratings and price range are you looking for ?
+how about high rooftop lounge , acorn , or cascal
+i have found three restaurants that serve indian food in redmond , washinton : the nest , amarin , and cetrella .
+please tell me how many people will be there
+okay , so 5 people correct ?
+what is the name of the restaurant ?
+sorry , we don ' t have any openings for 5.30 pm . will either 6.15 pm or 8.30 pm suit ?
+it won ' t be possible to get you a reservation for friday for 5 people at sumiko then
+what is the name of the restaurant ?
+i can ' t get you a reservation for 7 pm but 8.30 pm is available .
+your reservation has been made for next monday at 8.30 pm for 3 .
+for how many people ?
+at which restaurant and for what date ?
+please verify that the name of the restaurant in cascal
+please confirm reservation is for tonight at 7.15 pm .
+how many people ?
+please confirm reservation is for 4 people .
+what is the name of the restaurant ?
+7.15 pm isn ' t available . please choose from the following 6.15 pm , 6.30 pm , 7.30 pm , or 8 pm .
+reservation confirmed for tonight at 6.15 pm at amarin for 4 people .
+how many people ? which restaurant ?
+8 pm is not available , the following times are , 6 pm , 6.30 pm or 7 pm . will any of these work for you ?
+i ' m sorry , the reservation you requested for friday at 8 pm is unavailable .
+please confirm that the time for the reservation is 7.15 pm
+at what restaurant ?
+please confirm that you want to reserve a table at sumiko
+for how many
+so you need it for 4 people ?
+ok , what is the name of the resturant and what day do you want it ?
+that was for the cheese cake factory ?
+so i am going to make a the reservation for the cheese cake factory tonight at 8 pm for 4 correct ?
+ok , your reservation has been confirmed for you and your party of 4 can at the cheese cake factory at 8 pm tonight .
+for how many people ?
+and for what restaurant and what date and time ?
+7.15 pm , 8 pm , and 8.30 pm are open .
+your reservation for sakoon on friday and 8 pm for 4 people is confirmed .
+okay , what time ?
+and on what day ?
+for how many people
+and which restaurant ?
+i ' m sorry , i am unable to make a reservation with 2 people at sumiko on wednesday at this time
+that ' s 7.15 pm , right ?
+for how many people ?
+how many people are coming ?
+and what ' s the name of the restaurant ?
+what restaurant do you want to book a table at ?
+7.15 pm tomorrow , a table for 3 at amber india ?
+your reservation is confirmed .
+which restaurant : amarin , evvia , or pompei ?
+what day would you like the reservation to be for , and how many people need to be included ?
+so the reservation is for 5 people ?
+what restaurant would you like to make the reservation for , and at what time ?
+there are no openings at 7.15 pm . there are openings for 6.15 pm , 6.30 pm , 7.30 pm , or 8.30 pm .
+5 pm is also open .
+to confirm , i have a reservation at il fornaio tonight at 5 pm for 5 people .
+what restaurant and on what day ?
+there are no available reservations for wednesday at 7 : 15 pm for 2 at evvia
+sorry , there are no reservations available at evvia for 2
+there are no available reservations for wednesday at 8 pm either
+okay , what day and restaurant and how many people will be attending ?
+8 pm is not available . you can choose from 6.30 pm , 7 pm or 7.30 pm .
+how about 5 pm .
+your reservation is confirmed for friday at 5 pm at il fornaio with 4 people .
+was that for wednesday ?
+for how many people and at which restaurant ?
+there isn ' t a reservation available at this time .
+could you tell me the name of the restaurant and the date you want to book ?
+what time and how many people ?
+alright . i ' ve got the time set for 7 pm for 4 people .
+let me make sure i ' ve got this right : the time and date are 7 pm tomorrow at amarin for 4 people .
+alright . got it . reservation is tomorrow at 7 pm at amarin for 4 people .
+what type of food would you like and how expensive ?
+please choose from deep blue , evvia , or pepper
+what date ?
+what time ?
+what time would you like to book the restaurant for ?
+what ' s the name of the restaurant and how many people will be attending ?
+i ' m unable to book sushi boat for 4 people tonight
+sure , for what time ?
+which restaurant ?
+unable to book cetrella for 8 pm . how about 7 pm , 7.30 pm or 8.30 pm ?
+how about 6 pm ?
+reservation confirmed for 2 at cetrella on friday at 6 pm
+what is your location ?
+what type of food would you prefer ?
+would you be interested in the nest or evvia ?
+how many people is the reservation for ?
+at which restaurant do you want to make a reservation ?
+what time would you like for the reservation ?
+what day would you like to make the reservation for ?
+i ' m confirming that the date you requested is tomorrow . is that correct ?
+there are no reservations available for 7.30 pm . please choose from the following : 5 pm or 7 pm
+there are no reservations available for tomorrow at evvia for 4 people
+there are no reservations for 7.30 pm . the following times are available : 5 pm , 6.15 pm , 7 pm , or 8 pm
+there is a table available at 8.30 pm
+your reservation for tomorrow at 8.30 pm for 4 people at pompei is confirmed
+what date
+just to confirm reservation for wednesday at 8 pm
+how many people is this reservation for
+sorry , i was unable to make a reservation for wednesday for 3 people at evvia
+what time would you like ?
+ok . setting the time for 7 pm
+what day would you like and what is the name of the restaurant ?
+great . let me confirm : next monday at sakoon .
+how many in your party ?
+how many people are going ?
+7 pm is not available . would you like to try 6.15 pm or 7.30 pm ?
+great . your reservation is next monday at 7.30 pm at sakoon for a party of 5 .
+your table has been reserved at sakoon for 5 at 7.30 pm next monday
+what is the name of the restaurant and how many people are in the party ?
+there are no available reservations at 7.30 pm . 6 pm , 6.15 pm and 8.30 pm are all open .
+the 7.30 pm reservation was declined , but 6 pm , 6.15 pm and 8.30 pm are available .
+i can get you a reservation at 5 pm .
+i cannot get a reservation for 3 people at cheese cake factory at 7.30 pm .
+what is the restaurant name ?
+and how many people ?
+7 pm is not available , but 8.30 pm is available
+reservation confirmed for tomorrow at 8.30 pm for cheese cake factory for 4 people .
+ok , tell me the name of the restaurant and what time you need the reservation .
+ok . you want a reservation for anytime at sakoon
+how many people and for what date ?
+i can make a reservation for 7.30 pm on friday .
+i can only make a reservation for 7.30 pm on friday .
+ok . i ' ve made you a reservation for 6 at sakoon for 7.30 pm on friday .
+just to confirm , you said 5.30 pm ?
+how many people will be arriving ?
+could you please provide the date of reservation and the name of the restaurant ?
+i ' m sorry , 5.30 pm is not available . we have open reservations for 6 pm , 7 pm , or 7.30 pm . would one of these be to your liking ?
+my apologies , but a reservation of 3 for tomorrow at the sushi boat is not possible .
+i ' m sorry , that ' s not available either . would 5 pm , 6.30 pm , or 8 pm work ?
+we cannot currently book a reservation for 3 tomorrow at amarin .
+which restaurant ? for how many people and on what date ?
+there aren ' t any available reservations at 8 pm . would 5 pm , 6 pm or 8.30 pm work for you ?
+sorry , i can ' t make the reservation that you ' ve requested .
+you want to reserve a table for 5 at ephesus for tomorrow
+what is the name of the restaurant ?
+is the name of the restaurant cascal ?
+what date would you like you rreservations for and how many people ?
+that time does not work please choose from either 6 pm or 6.30 pm
+that reservation is not possible for that time
+that reservation is not possible for that time please choose from either 5 pm or 6.30 pm
+please choose from 7.15 pm or 7.30 pm
+that reservation is not possible for the time and date
+for what date and time ?
+what restaurant ?
+for how many people ?
+did you say 4 people ?
+so you ' d like to make a reservation at sushi boat for 4 people at 8 pm tomorrow ?
+i made the reservation for tomorrow at sushi boat for 4 people at 8 pm
+how many people
+what time should i make the reservation for ?
+what day and time would you like the reservation ?
+would you prefer 5 pm or 6.30 pm ?
+ok , reservation was not completed
+sure , what ' s the restaurant
+what is the name of the restaurant your would like to make a reservation with ?
+that ' s for 4 people ?
+ok , what time ?
+ok , what time ?
+ok , 6 pm , 6.15 pm or 7 pm ?
+how about for 7.30 pm ?
+ok , your restaurant reservation at los altos grill for 4 people at 7.30 pm is set .
+the location to search is redmond ?
+what type of cuisine and meal would you like to find ?
+please choose a restaurant , the hudson room or los altos grill or pepper ?
+can you provide a date ?
+how many people and what restaurant ?
+8 pm was declined . 6 pm or 6.15 pm is available
+5 for 8 pm was not available
+ok , please give me the restaurant and the date of reservation .
+how many people will be attending ?
+please confirm that the reservation is for 6 pm on wednesday at the il fornaio with 3 people attending ?
+confirming reservation details : 3 guests on wednesday at 6 pm at the il fornaio .
+for what day and time
+that time isn ' t available . how about 5 pm , 6.30 pm or 8.30 pm
+i ' m sorry , there are no reservations for 8 pm wednesday at il fornaio for 2 people
+you want the same time and date of wednesday at 8 pm at oren hummus for 2 ?
+i have made your reservation at oren hummus for wednesday at 8 pm for 2
+for what day and how many people
+ok , so you would like an 8 pm reservation at los altos grill for 5 people ?
+ok , you are all set . table for 5 at los altos grill tomorrow at 8 pm
+you need a reservation next monday for 5 people at 7.15 pm . is that right ?
+at which restaurant ?
+los altos grill ?
+unfortunately , that time is not available . would you like a reservation at 5 pm , 6.15 pm , or 7 pm ?
+i ' m sorry . try another restaurant .
+unfortunately , 7.15 pm won ' t work . how about 5 pm , 6 pm , 6.30 pm , or 8.30 pm ?
+there are no available reservations for 7.15 pm . you could choose to make a reservation at 5 pm , 6 pm , 6.30 pm , or 8.30 pm .
+there are no available reservations for 7.15 pm that night . you could choose to make a reservation at 5 pm , 6 pm , 6.30 pm , or 8.30 pm .
+i ' m sorry . there are no available reservations for 5 next monday at the cheese cake factory .
+what location and price range are you looking for
+yorktown heights , is that right ?
+i found the ivy
+would you like amarin or cascal
+how many people at what restaurant ?
+what day ?
+did you say you want to schedule for tonight ?
+can you confirm that you want to reserve a table for 2 at oren hummus at 7.15 pm tonight
+reservation confirmed
+which restaurant ?
+so a reservation for 2 tomorrow at sushi boat . correct ?
+what time would you like
+are you sure you don ' t care ?
+would you like 6.15 pm , 7 pm , or 8.30 pm ?
+how about 8 pm ?
+ok , it is set for tomorrow at 8 pm at sushi boat for 2 people
+what date and time and how big ' s the party ?
+okay , where at ?
+okay , that a party of 4 at cheese cake factory for this friday at 6 pm , right ?
+okay , you ' re all set for a party of 4 at cheese cake factory for this friday at 6 pm
+how many people do you want to make the reservation for ?
+what day will this reservation be for ?
+do you need the reservation for next monday ?
+what time ?
+where at ?
+8 pm is unavailable . would you like to make the reservation for 5 pm , 6.30 pm , or 7.15 pm instead ?
+sorry , a reservation for 3 people next monday at 8 pm at amber india is unavailable
+how many people and where ?
+so sakoon for 5 , correct ?
+how many people would you be making a reservation for and at which restaurant ?
+there is no availability for 8 pm , but there is one for 7.30 pm
+no reservation was made .
+sure . what date would you like to make the reservation for ?
+okay , where would you like to go , and how many people ?
+cetrella is booked for 7.15 pm . how about 6 pm or 8 pm ?
+got it , will not set reservation for 3 at cetrella
+sorry , but you can book for 5 pm , 6 pm , 7.30 pm or 8 pm
+how about 8.30 pm ?
+okay . your reservation at 8.30 pm for 3 at cetrella tonight is confirmed .
+what day ?
+which restaurant would you like and what time ?
+how many people ?
+could you confirm you want a reservation at sakoon for 6 people at 7.15 pm ?
+reservation confirmed
+at what restaurant should i make the reservation ?
+so i should make a reservation at evvia ?
+how many people should the reservation be for ?
+for what date and time ?
+so next monday at 5.30 pm ?
+5.30 pm will not work . what about 6 pm or 7.30 pm ?
+i cannot make a reservation at evvia for 5 people on next monday .
+i cannot make the reservation at 5.30 pm . what about 6.15 pm or 7 pm ?
+what about 8 pm or 8.30 pm ?
+i cannot make a reservation at evvia for 5 people on next friday .
+i cannot make a reservation at cascal for 5 people on friday either .
+i cannot make a reservation at cascal for 5 people on friday .
+i cannot make a reservation at cascal for 5 people on friday .
+i cannot make it at 7.15 pm but i can for 6.30 pm .
+which restaurant , and how many people ?
+confirm reservations for 2 at ephesus restaurant for tonight at 7.15 pm
+your reservation is confirmed
+was that time 7.30 pm ?
+which restaurant should i make the reservation at ?
+ok , so to confirm , the reservation is for 2 people at cheese cake factory at 7.30 pm tonight ?
+alright i have made your reservation for tonight at 7.30 pm at cheese cake factory for 2 people .
+what time
+ok , you don ' t care about the time , is that right ?
+how many people ?
+alright , at 6 pm , 7.30 pm , or 8 pm ?
+ok how about 5 pm or 6.15 pm
+i can ' t do a reservation with your desired details , sorry
+ok times available are 5 pm or 8 pm
+i ' m sorry i can ' t complete your desired reservation
+available times are 5 pm , 6 pm or 7.15 pm
+sorry , i can ' t complete your reservation
+please provide a time
+please provide the number of people
+please provide the date you wish to reserve and the name of the restaurant
+this reservation is not possible for the specified date and time
+i can ' t make your reservation .
+for what restaurant ?
+for the restaurant sakoon ?
+what time ?
+7.30 pm ?
+for how many people ?
+for what day ?
+there isn ' t a 7.30 pm reservation available , but i can make a reservation for 7 pm
+unfortunately , for 3 people on wednesday at sakoon i cannot make the reservation you are requesting .
+please confirm the time of 7.15 pm .
+tell me how many people will be dining in total and the name of the restaurant .
+i ' m sorry , but 7.15 pm is not available . do 6 pm or 8 pm work for you ?
+i ' m sorry , but sushi boat is booked at 7 : 15 pm on friday for 5 people . the reservation is not possible .
+what cuisine are you looking for and in what price range ?
+choose from the hudson room , cetrella , or deep blue
+what is the name of the restaurant ?
+amber india ?
+what ' s the date
+how many people and at what time ?
+you can choose from 6.15 pm , 8 pm , or 8.30 pm
+i can reserve 6.30 pm .
+this reservation is not possible based on your current information
+you want to try wednesday ?
+i have the following times open , 7.15 pm , 7.30 pm , or 8 pm .
+the reservation is not possible
+for how many people ?
+what restaurant and at what time would you like ?
+i could not get you a reservation at 8 pm , but 7.15 pm , 7.30 pm or 8.30 pm are available .
+how about 6.15 pm ?
+ok , i have made a reservation for you at 6.15 pm wednesday for 3 people at amarin .
+what type of food would you like , and what price range ?
+what location and which meal would you like ?
+please confirm that you don ' t care which meal but you do want kirkland .
+select the restaurant amarin or angel
+what is the date , restaurant name and number in the party ?
+8 pm is impossible , would 6.15 pm or 7.30 pm work ?
+this date is not possible
+how many people in your party
+that was a party of 6 correct ?
+which restaurant would you like to reserve a table at and for what date ?
+you would like to book a table at sushi boat for 6 people tonight at 7.15 pm , is this correct ?
+i ' d like to confirm that you want to book a table at sushi boat for 6 people tonight at 7.15 pm , is this correct ?
+your reservation has been confirmed for 7.15 pm at sushi boat for a party of 6
+how many people will be attending and what is the name of the restaurant ?
+sure , what restaurant would you like
+ok so you want a reservation at cetrella
+for how many people
+8 pm isn ' t available but 6.15 pm or 7 pm is available
+ok no reservations have been made
+how about amarin , cetrella , or deep blue ?
+what about high rooftop lounge or the nest ?
+i couldn ' t find any other restaurants in that area .
+i found the view , ephesus , and pepper .
+for what restaurant ?
+what date do you want to reserve ?
+for how many people ?
+ok . reservations for 3 tomorrow at 7.15 pm at amber india , right ?
+alright , your reservation is confirmed .
+how many people is the reservation for ?
+what restaurant would you like it to be for ?
+ok , so this is for wednesday at 8 pm at il fornaio and for 4 people ? is that correct ?
+ok , the reservation is set for wednesday at 8 pm at the restaurant il fornaio and it is for 4 people .
+what ' s the name of the restaurant and how many people in the party ?
+reservation of 6 pm is unavailable but there are slots for 5 pm , 6.15 pm or 7.15 pm .
+i have a reservation option for 7.30 pm
+unable to reserve for party of 3 on wednesday at amarin .
+confirm request for party of 3 at wednesday for amarin at 7.15 pm
+reservation confirmed for party of 3 wednesday 7.15 pm at amarin .
+sure , what time would you like ?
+i have 6.30 pm , 7 pm , or 7.30 pm available . which would you like ?
+ok , your reservation at ephesus for 2 at 7.30 pm tomorrow is confirmed .
+your reservation at ephesus for 2 at 7.30 pm tomorrow is confirmed .
+you want to make a reservation for 7.15 pm , correct ?
+what restaurant would you like to make the reservation at ?
+what restaurant would you like to make the reservation at ?
+how many people are going ?
+7.15 pm was declined . you can chose from 6.30 pm , 7 pm , or 7.30 pm .
+i can make a reservation for 6 pm .
+other times are not available .
+for wednesday ?
+number of people and name of restaurant ?
+confirm cascal restaurant for 3 people on wednesday at 7.15 pm ?
+your reservation for 3 people on wednesday at cascal is confirmed
+which restaurant are you looking at ?
+there are no reservations available for 6 pm at ephesus . would you like to book a table for 6.15 pm , 7 pm or 7.30 pm ?
+ok , your table is booked for wednesday at ephesus for 5 people at 6.15 pm .
+okay . what restaurant would you like to make the reservation with , how many people , and at what time ?
+pompei at 7.15 pm for 3 people . is this correct ?
+reserve a table at pompei at 7.15 pm for 3 people . is this correct ?
+what date ?
+7.15 pm next monday is not available . please choose either 6.15 pm , 6.30 pm , or 7.30 pm .
+your reservation is set for next monday at 6.30 pm at pompei for 3 people .
+only time available is at 5 pm , 7.15 pm , and 8.30 pm .
+then i ' m sorry , i can ' t make your reservation .
+ok , what type of cuisine , which mealtime and what price range would you like ?
+please choose from the following restaurant names , the hudson room , angel or cascal
+please confirm that the food is taiwanese , moderately priced and located in middletown
+you have a choice between high rooftop lounge , the hudson room or amarin
+what day ?
+how many people
+which restaurant ?
+ok please provide me with the date of the reservation .
+you said , " it is for tomorrow . there will be 3 people and name of restaurant is cetrella . " is this correct ?
+what time ?
+you said anytime , is this correct ?
+please choose from the following , 6.30 pm , 7 pm or 8 pm
+please choose from the following , 6.30 pm , 7 pm or 8 pm
+would you like 7.30 pm
+ok , reservation confirmed for 7.30 pm tomorrow for 3 people at cetrella .
+that is tonight at 8 pm ?
+what restaurant would you like and how many people are coming ?
+8 pm is not available , how about 6.15 pm , 6.30 pm or 7 pm ?
+5 pm is also available
+5 pm is the only other available time
+your reservation is confirmed at the sushi boat , at 5 pm for 4 people .
+may i have the date and the name of the restaurant
+i ' m sorry , but 5.30 pm is not available . would 6 pm or 7.15 pm work for you ?
+let me share with you some other times . how about 7.30 pm , 8 pm or 8.30 pm ?
+sorry , but a reservation at pompei for 6 people is not available .
+for what date and what restaurant ?
+please confirm that you want to book for tonight at cheese cake factory
+for how many people
+6 pm is not available . please choose 7 pm or 7.30 pm
+your reservation is confirmed for 6 people tonight at 7.30 pm at cheese cake factory
+how many people and for what time
+what restaurant and what date
+7.15 pm isn ' t available . you can choose from 7 pm or 8.30 pm
+reservation for tomorrow for 2 people at cetrella
+did you say you wanted next monday ?
+what restaurant would you like to go to ?
+how many people will be going and at what time ?
+would 5 pm , 6.15 pm , or 7 pm work best ?
+i have not made a reservation for 3 next monday at il fornaio
+what type of food would you like ?
+there are three restaurants nearby : the nest , amarin , or cascal . which one would you like ?
+how many will be in your party ? what is the name of the restaurant ?
+your requested time of 7 pm has been declined . please choose from the following : 6.15 pm , 6.30 pm , or 7.30 pm .
+your reservation is confirmed at amarin tonight at 6.15 pm for a party of 3 .
+just to make sure , this would be for 8 pm , correct ?
+what is the name of the restaurant ?
+ok , just to make sure i have all the information correct , you would like to set a reservation for 3 people for tonight at the restaurant los altos grill at 8 pm .
+ok , your reservation is confirmed for the details you provided me .
+i am just letting you know that your reservation is confirmed for the details you provided me . 3 people for tonight at 8 pm at the restaurant los altos grill
+ok tell me the number of people and the date
+how many people and what restaurant ?
+how many people
+what date and where
+are you sure wednesday at pompei ?
+just double checking , a reservation at pompei for 2 at 7 pm at wednesday
+okay you are all set
+how many people is the reservation for ?
+please confirm that the number of people the reservation is for is 6
+what is the name of the restaurant and what date would you like the reservation for ?
+ok , so the date is wednesday and the restaurant ' s name is the cheese cake factory ?
+there aren ' t any reservations available for 7.30 pm . you can choose from the following times : 6 pm , 6.15 pm , 7 pm or 8.30 pm .
+ok , i can also make a reservation for 5 pm .
+i have made a reservation at the cheese cake factory for this wednesday at 5 pm for 6 people .
+ok that is no problem . how many people will be in your reservation ?
+ok just to confirm that is 5 people in your party ?
+i would just like to confirm that is 5 people in your party ?
+ok . which restaurant would you like to reserve ?
+i ' m sorry but 7.15 pm on monday is not available . would you be interested in reserving it for 6.15 pm instead ?
+ok are there any other restaurants you would like me to check on ?
+ok let me check . we do not have 7.15 pm available , but i see that there are openings at 6 pm , 7 pm or 8 pm . would you like to confirm one of those times ?
+ok no problem . what other restaurant would you like to try ?
+ok no problem . it is not available at 7.15 pm , but can be booked at 6 pm , 6.30 pm , 7.30 pm or 8.30 pm . do any of those work for you ?
+ok no problem we will not book any of those times . is there anything else i can help with ?
+what is the date and how many people is it for ?
+can you confirm that it is for 4 people on wednesday at 7.15 pm at cetrella ?
+ok , your reservation is set .
+how many people ?
+what ' s the name of the restaurant and date ?
+they don ' t have 6 pm but they have 6.15 pm or 8.30 pm ?
+okay youre all set for next monday at 6 : 15 for 3 people . dress casual .
+what is the name of the restaurant ?
+how many people are going ?
+can you confirm these details : 4 people at cascal on next monday at 8 pm .
+your reservation is confirmed .
+give the number of people with the date and name of restaurant
+give the number of people with the date and name of restaurant
+give the number of people with the date and name of restaurant
+give the number of people with the date and name of restaurant
+confirm that next monday there is a reservation for 5 people at 6 pm at pompei
+confirm that next monday there is a reservation for 5 people at 6 pm at pompei
+choose one of the following : angel , deep blue , or pompei
+ok , which restaurant would you like , what time and how many people
+which night ?
+wednesday night ?
+i ' m sorry , i can ' t make a reservation on wednesday for 6 people at sakoon
+6 pm , correct ?
+i ' m sorry i can ' t make a reservation on wednesday for 6 people at sakoon .
+what time ?
+ok , what day ?
+i can ' t make you a reservation for cascal on friday
+i need the date and name of the restaurant
+so the date is friday and the restaurant is pompei
+how many people coming
+what time
+no at either 7.15 pm , 7.30 pm or 8 pm because 6 pm is not available
+ok . the date is friday with 6 people at 7.15 pm
+7.15 pm ?
+which restaurant ?
+what date and how many ?
+next monday ?
+there is not a 7.15 pm reservation available . you may choose from 6.30 pm , 7 pm , or 8 pm
+how about 8.30 pm ?
+reservation is confirmed for 6 people next monday at sushi boat at 8.30 pm
+how many people and where at ?
+for 4 people at the cheese cake factory ?
+i couldn ' t make the reservation for you .
+give me the date and number of people that are going
+what time are you going and what ' s the name of the restaurant ?
+can you confirm you are going tonight at 8 pm to amarin with 3 people ?
+ok , your table is booked
+what ' s the name of the restaurant ?
+what time would you like and for how many people should the reservation be ?
+for what day ?
+no tables are available 5.30 pm , but i can offer a reservation for 8.30 pm
+then i ' m unable to offer a reservation on friday for 2 for sushi boat
+no tables are available for tomorrow for 2 at sushi boat either .
+which restaurant
+on what date
+at what time
+how many people
+please confirm 5 people
+please confirm time , date , and number of people
+reservation confirmed
+how many of you
+what date you need the reservation for ?
+how many people do you need a table for , on what date , and where would you like book ?
+what time
+nothing is available at 7.15 pm , want to try for 6 pm or 6.30 pm ?
+i ' m sorry , i can ' t make the reservation for 5 at los altos grill on friday
+what restaurant would you like this to be for ?
+at what time do you need your table secured ?
+would you prefer 6 pm or 8 pm ?
+your reservation has been placed for 5 people at amarin tonight at 8 pm
+what restaurant and how many people do you need to book the table for ?
+please confirm - the reservation is for 6 people at amarin .
+7.15 pm is not available . your choices are 6 pm , 6.30 pm , or 7.30 pm
+ok , your reservation is all set .
+how many reservations do you need .
+6 . is that correct ?
+ok . which restaurant and what date do you want reservations for .
+reservations for 6 pm not available . you may choose 6.15 pm , 7.15 pm or 7.30 pm .
+reservations set for 7.30 pm on wednesday for 6 people at the ephesus .
+what location
+what type of food and rating do you prefer
+did you say taiwanese food
+your choices are high rooftop lounge or evvia or los altos grill
+sure , let me find results for moderately priced restaurants
+here are some choices : high rooftop lounge , amarin or ephesus
+how many people in your party
+which restaurant ?
+on which day ?
+6 pm is not avaible how about 7 pm or 7.30 pm ?
+confirming reservation for 5 people next monday 7.30 pm at il fornaio
+for where and for how many ?
+7.15 pm isn ' t available , what about 6 pm , 7 pm or 8.30 pm ?
+sakoon isn ' t available for 5 at 7 : 15 pm this wednesday
+there are no reservations available for 5 at sakoon this wednesday at 7 : 15
+what ' s the price range
+choose : deep blue or ephesus
+choose : amarin , cetrella , or sweet greens
+for how many people and where would you like this reservation ?
+and for what day ?
+for 8 pm ?
+a reservation can ' t be made for 8 pm . would you like me to make it for 6 pm or 6.30 pm ?
+no reservation has been made for tonight , for 4 people , at oren hummus .
+what is the name of the restaurant ?
+let me confirm . the date is friday at 8 pm for 3 people at sumiko .
+reservation confirmed .
+what is the name of the restaurant and time of reservation ?
+do you want to make a reservation at a restaurant , but you don ' t care about the time of the reservation ?
+for what date and number of people ?
+can you confirm that the date is next monday and the number of people is 3 ?
+choose one of these times : 6 pm , 6.15 pm or 7.15 pm
+i can make a reservation for 6.30 pm m
+okay , i ' ve mad a reservation for you for next monday at pompei restaurant , for 3 people at 6.30 pm .
+please provide the date .
+how many people and what time would you like ?
+that ' s a table for 2 at evvia for 8 pm tomorrow , right ?
+confirmed , your table is booked .
+what time
+how much people
+what day
+what is the name of the restaurant
+cannot book for wednesday for 6 people at pompei
+is that 7.30 pm ?
+what restaurant ?
+what type of food and what restaurant rating
+looking for indian food at any rating of restaurant
+you can choose from these : high rooftop lounge , pepper or sakoon
+two choices , amber or cetrella .
+what ' s the name of the restaurant ?
+how many people and what date do you want to book ?
+what time ?
+is it tonight at 7 pm for 3 people in pompei ?
+reservation is done
+what day and time and for how many people ?
+what ' s the name of the restaurant ?
+just to verify , you need this reservation for tomorrow at 8 pm for 4 people at the il fornaio ?
+i ' ve completed your reservation for tomorrow at 8 pm at il fornaio for 4 people .
+ok . this is marked as restaurant reservation for 8 pm tomorrow at il fornaio for 4 people .
+show number
+restaurant name
+restaurant name in ephesus
+reschedule for 6 pm , 7 pm or 8.30 pm
+what date , at what restaurant and for how many people ?
+ok , wednesday at il fornaio ?
+there are no openings for 6 pm . how about 8 pm ?
+there are no openings for 6 pm . how about 8 pm ?
+reservation confirmed for wednesday at il fornaio 8 pm for party of 5 .
+sure , can what time would you like the reservation to be for ?
+how many people will be in the party
+okay , what time would you prefer - 6 pm , 7 pm , or 8.30 pm
+that reservation is not possible .
+how about 6 pm , 7 pm , or 7.15 pm
+how about 8.30 pm
+reservation is confirmed for tonight at 8.30 pm at sakoon for 5 people
+what ' s the name of the restaurant you want to reserve a table at ?
+what time do you want to eat ?
+what time do you want to make a reservation for ?
+what time do you want to make a reservation ?
+what time do you want to make a reservation ?
+there are tables open at 6.15 pm , 6.30 pm and 7.30 pm , will any of those times work for you ?
+i can book you a table at 6.15 pm , 6.30 pm or 7.30 pm .
+what about 6 pm or 8.30 pm ?
+i cannot find an open table that fits all of your needs .
+how many people ?
+what is the name of the restaurant ?
+what date ?
+what time ?
+please confirm that the time is 8 pm
+you have been declined for 8 pm please choose from the other following alternative times : 5 pm or 6.15 pm
+then unfortunately a reservation is not possible with the details you have listed
+where would you like to go , and how many people should the reservation be for ?
+what date would you like to go ?
+there are no 8 pm available , but 7.15 pm is available .
+i ' m sorry , a reservation for 2 people next monday at il fornaio cannot be made , then .
+there is nothing available at 8 pm , but 7.30 pm or 8.30 pm are available .
+i ' m sorry , then a reservation next monday for 2 people at ephesus is not possible .
+7.30 pm correct ?
+what is the date and name of the restaurant
+number of people and name ?
+next monday at 7.30 pm at evvia for 5 people , correct
+reservation confirmed
+what is the name of the restaurant ?
+for what time ?
+for how many people ?
+for what date ?
+the time 8 pm is not available . the times available are 6.15 pm or 6.30 pm
+a reservation for 2 people next monday at cascal is not possible
+the time for 8 pm is not available . you can choose from 7.15 pm , 7.30 pm , or 8.30 pm
+the time for 8 pm is not available . you can choose from 7.15 pm , 7.30 pm or 8.30 pm .
+the reservation for 2 people on wednesday at cascal cannot be made
+what price range are you looking for ?
+what type of food are you interested in and in what area would you like to eat ?
+would you like cascal , cetrella or pompei restaurant ?
+how many people are going ?
+there are no openings for 8 pm but i can get you on at 6.15 pm or 7 pm
+i ' m sorry , i can ' t get you reservations for 6 for 8 pm tonight at sumiko .
+to confirm , you want me to make reservations for 6 , at 7.15 pm tonight at sumiko , correct ?
+reservation confirmed : you ' ll have a table for 6 waiting for you .
+what time would you like the reservation ?
+confirm any time is the time .
+6.30 pm and 8 pm are available . please choose one .
+choos 6.30 pm or 8 pm for your reservation time .
+there are no other times available on wednesday for 5 people .
+okay , what date do you want to schedule that for ?
+alright , what is name of the restaurant you would like to reserve a table at ?
+can you please confirm that the reservation is for the sumiko .
+there are no tables available at 6 pm . would 6.15 pm , 7.30 pm , or 8.30 pm work for you ?
+okay great , i set up a reservation at sumiko for 8.30 pm tonight for 6 .
+sure thing , how many people are coming and which restaurant would you like ?
+great ! i have your reservation for 5 at los altos grill at 7.15 pm on friday . is this correct ?
+excellent ! your table is reserved for friday at 7.15 pm for 5 at los altos grill .
+is the name of the restaurant il fornaio ?
+can you give me a time ?
+you don ' t mind when the time is ?
+i can make a reservation for 5 pm .
+the reservation is for tomorrow at 5 pm at il fornaio for a table of 3 .
+how many people is the reservation for ?
+what is the name of the restaurant , and what day do you need the reservation to be on ?
+at what restaurant ?
+no reservations are available at 7.15 pm , would you like 7.30 pm , 8 pm or 8.30 pm ?
+alright , can i help with anything else ?
+how many people would you like reservations for ?
+2 people , correct ?
+which restaurant would you like to make reservations ?
+you would like reservations at the cheese cake factory , correct ?
+what date would you like to make reservations ?
+i don ' t see any reservations available for 7.30 pm there are reservations available for 6 pm , 6.30 pm , 7 pm , and 8 pm
+i was not able to make reservations for 2 people at the cheese cake factory for tonight .
+what ' s the name of the restaurant where you want to make this reservation ?
+how many people would you like this reservation for and on what date ?
+please confirm a reservation for 2 people at ephesus for next monday at 7 pm .
+reservation confirmed .
+tell me your choice of food and the location you wish to eat in
+okay , what about amarin , or amber , or even sakoon ?
+how many people
+where and what date
+what time
+you ' d like me to book a table tonight at 7.15 pm for 5 people at the cheese cake factory
+done
+number of people and restaraunt name please
+ok , 3 people , at sumiko
+wednesday at 8 pm , 3 people , sumiko restaurant
+confirmed for wednesday : 8 pm , 3 people , sumiko
+you ' d like to book a table for friday , correct ?
+how many people are you having ?
+where would you like to book a table and what time is the best for you ?
+should i book a table at ephesus at any available time ?
+there are tables available at 6 pm and 8 pm . what time works best for you ?
+i cannot book a table without the time , sorry .
+what price range , cuisine and star rating are you looking for ?
+okay , there are 3 : the view , boats or ephesus .
+how about evvia ?
+sure , what will be the date and time ?
+how many people are going and would you tell me the name of the restaurant ?
+can you please confirm the number of people is 6
+8 pm is unavailable . please select another , 6 pm or 8.30 pm
+unfortunately your reservation is not confirmed
+okay , you can choose from the following : the hudson room , evvia , or sakoon .
+which restaurant and what time ?
+okay , would you like 6 pm , 6.30 pm , or 8.30 pm ?
+how about 6.15 pm or 7.30 pm ?
+i ' m sorry , i cannot complete the request
+what date and where do you want to go ?
+just wanted to make sure you said tonight at the sushi boat .
+how many people ?
+4 , correct ?
+just wanted to verify you want reservation at 7.30 pm tonight for 4 at sushi boat .
+your reservation is confirmed for tonight .
+for how many people ?
+where would you like to make the reservation ?
+what date and time would you like to reserve ?
+what date and time would you like your reservation to be for ?
+it doesn ' t look like 8 pm is available . what about 5 pm , 7 pm or 7.15 pm ?
+8 pm is not available on wednesday . i was unable to book your table on wednesday night at cetrella for 3 people .
+please confirm the reservation at the palms for next monday
+what time and how many people are coming ?
+and at what restaurant ?
+would you like 6 pm , 6.15 pm or 8 pm ?
+the sushi boat table for 3 is not available at 8 pm on next monday
+it is available at 6.15 pm , 7.30 pm and 8 pm tonight
+you can have a reservation for 6 pm
+the sushi boat for tonight at 6 pm , 3 people is confirmed
+two restaurants were found , which would you like to choose : the nest , or sakoon ?
+here are some choices for you : deep blue , sakoon or sweet greens
+what ' s the number of people , date and name of restaurant
+6 pm not available , choose from 6.30 pm or 7.15 pm
+reservation confirmation , 3 people for tomorrow and name of restaurant is oren hummus for 7.15 pm
+what time and how many people
+which restaurant
+what date ?
+okay , next monday
+8 pm is not available , what about 6.15 pm , 6.30 pm , or 7 pm
+what about 6 pm
+okay , reservation at sumiko next monday at 6 pm for 2 is set
+for how many and at what restaurant ?
+is the restaurant sakoon ?
+so you would like a reservation for 6 people at sakoon at 8 pm tomorrow ?
+i have made a reservation for 6 people at sakoon for 8 pm tomorrow .
+how many people will be with you and where would you like to go
+so that ' s 4 people on friday at 8 pm at amarin
+sure , that ' s 4 people on friday night at 8 pm at amarin
+your reservation has been made
+your reservation has been made
+where would you like to get a table ?
+should i book a table at oren hummus for 5 people for 6 pm next monday ?
+alright , the table is booked .
+i ' m sorry , i couldn ' t find any inexpensive restaurants in morristown
+i found two : .ink and ephesus
+restaurant name ?
+cetrella restaurant ?
+how many people ?
+so 3 people ?
+what time ?
+what day ?
+so wednesday ?
+6 pm is booked but 7.30 pm is available
+cannot complete reservation for 3 at cetrella for wednesday .
+what ' s the restaurant ' s name ?
+los altos grill , right ?
+sorry , i can ' t make one for that time , but i can make one for 6 pm
+sorry , i can ' t make a reservation for that day and time
+friday , correct ?
+sorry , that time is not available , but how about 6.15 pm ?
+sorry , i can ' t make a reservation for that day and time
+sorry , i can ' t make a reservation for tonight at that time
+sorry , i can ' t make a reservation for tonight at that time
+you want to make a restaurant reservation for tomorrow at 8 pm
+please provide the name for the restaurant
+okay , confirm that tomorrow at 8 pm and the name of the restaurant is oren hummus for 6 people
+okay confirming your reservation for tomorrow for 8 pm . restaurant is oren hummus and number for people is 6
+what is the name of the restaurant ?
+for how many people ?
+what day would you like the reservation ?
+sorry , there ' s nothing available at 7.15 pm . does 5 pm , 6.15 pm or 7.30 pm work ?
+i have confirmed your reservation for next monday at 5 pm for 4 people at amarin .
+what are the date , number of people and restaurant name ?
+what time
+8 pm is not available , i can do 7.15 pm
+cannot make a reservation for your time
+can you confirm the time is 7 pm tonight for 3 people
+what restaurant would you like ?
+i ' m sorry but 7 pm is not available . chose 5 pm , 6.15 pm , 7.15 pm , or 8.30 pm
+all set ! table for 3 at pompei ' s tonight at 6.15 pm
+ok , reservation made for 8 pm
+what day and how many people ?
+ok , next monday and 3 people it is
+what restaurant would you like to make a reservation for ?
+ok , will make reservation for amber india
+sorry , but no reservations are available for 8 pm , how about 6 pm , 7 pm , or 7.15 pm ?
+how about 5 pm ?
+ok , i have made a reservation for 3 at amber india at 5 pm , next monday .
+which restaurant would you like to make reservations for ?
+what time ?
+what date ? how many people do you need to book the table for ?
+there isn ' t an opening for 7.15 pm . which would you prefer : 6.30 pm or 8.30 pm ?
+a reservation for 4 is not available .
+you would like a reservation at oren hummus on wednesday at 7.15 pm for 4 people ?
+reservation confirmed for wednesday at oren hummus at 7.15 pm for 4 people .
+reservation confirmed for wednesday at oren hummus at 7.15 pm for 4 people .
+please provide the number of people in your party .
+please provide the name of the restaurant and the date of the reservation .
+a 7.30 pm reservation is not available . your options are 6 pm , 6.15 pm , 7 pm , or 8.30 pm .
+a reservation is not available for a party of 5 at oren hummus on wednesday .
+a reservation for 7.15 pm is unavailable . your options are 6 pm , 6.15 pm , 7 pm , or 8.30 pm .
+a 7:15 pm reservation is not available for a party of 5 at oren hummus on wednesday .
+please provide the name of the restaurant .
+how many people are going and what time and date would you like ?
+your 8 pm reservation was declined . is 7 pm or 7.30 pm okay ?
+what time ?
+so 6 people are eating at cascal on wednesday at 6 pm ?
+confirmed .
+okay , is the location middletown and the meal dinner ?
+i have found the following : the hudson room , the ivy , or amarin
+at what restaurant ?
+so cheese cake factory tomorrow for 6 people ?
+7 pm does not work , do 5 pm or 6.30 pm work ?
+confirmed
+what type of meal and rating
+you don ' t care what type of meal or rating ?
+what is your price range preference ?
+choose from high rooftop lounge or boats or ephesus .
+what day would you like ?
+which restaurant ?
+how many people ?
+did you say 2 ?
+6 pm is full . how about 8.30 pm ?
+okay , your table has been successfully reserved .
+what restaurant and how many people
+what ' s the date and time
+what date
+where at and for how many people ?
+that time in unavailable . would 5 pm be okay ?
+i ' m sorry . i can ' t make the reservation .
+you would like a reservation for friday at 7.15 pm
+where and for how many people .
+there are no reservations for 7.15 pm but there 5 pm and 6.30 pm are available
+the reservation is not possible .
+how many people ?
+i couldn ' t take at 7 pm , how about 5 pm , 6.15 pm , 7.15 pm or 7.30 pm ?
+okay , i made a reservation at sakoon on next monday 5 pm for 6 people . confirmed .
+which restaurant ?
+7.15 pm is not available , but you can go at 7.30 pm or 8 pm
+7.15 pm is not available , but you can go at 7.30 pm or 8 pm
+your reservation is confirmed for friday at 7.30 pm for 5 people at cascal
+what restaurant ?
+at which restaurant and for what date ?
+what date and for how many ?
+please confirm that you want a reservation for this friday at 7.15 pm for 6 at amarin .
+reservation is confirmed
+okay , next monday at 6 pm , right ?
+which restaurant ?
+okay , a reservation for 2 at ephesus , right ?
+okay , i have a reservation for 2 at ephesus next monday at 6 pm . correct ?
+sorry , no table available at 6 pm on next monday
+where would you like the reservation and for how many people ?
+what day would you like the reservation ?
+friday , is that right ?
+i ' m sorry , 7.15 pm reservation isn ' t available , would 6 pm be ok ?
+would you like to change the reservation ?
+ok , which restaurant , and how many in your party ?
+7.15 pm is unavailable , how about 6.15 pm or 8 pm ?
+ok , your request has been cancelled .
+okay , what is the name of the restaurant you would like to place a reservation at ?
+of course , i need to know the name of the restaurant you want to make a reservation at .
+just to make sure i got that , the name of the restaurant is pompei ?
+okay , what time would like to make the reservation for ?
+i need a time to set the reservation for .
+what about the date and number of people attending .
+6 pm isn ' t available for booking . would 7 pm , 7.15 pm , or 8.30 pm work ?
+okay then , well in that case the reservation date is set for next monday with 4 people at the restaurant , pompei .
+ok , so tonight at 6 pm , right ?
+where ?
+for how many
+i can ' t do that
+what date
+please confirm the date is next monday
+please confirm the date is next monday
+how many people and please tell me what time and what is the name of the restaurant
+not at 7.15 pm , choose from 6.15 pm , 6.30 pm or 8.30 pm .
+i can ' t schedule the reservation for next monday for 5 people at pompei .
+what date do you want to reserve and for how many people ?
+please confirm the date is next monday .
+what time would you like this reservation for ?
+what is the name of the restaurant ?
+unfortunately , 6 pm is not available . please choose from 7.15 pm or 7.30 pm or 8 pm .
+ok , your table is booked for next monday at 7.15 pm at sumiko for 2 people .
+what time would you prefer ?
+what ' s the name of the restaurant ?
+would you like to make a reservation for oren hummus ?
+would you like to make a reservation for 3 people next monday 7.30 pm at oren hummus ?
+reservation confirmed for 3 people next monday 7.30 pm at oren hummus
+please provide a time
+please tell me how many people
+just to check , the number is 2 correct
+there are no openings for friday for 2 people at sushi boat .
+on what day ?
+for how many people ?
+and at what restaurant ?
+reservations aren ' t available there at 6 pm , would 7.15 pm or 8.30 pm work ?
+ok , you have reservations next monday at sakoon for 2 at 8.30 pm
+what location do you want me to look in , and how much do you want to spend ?
+how about angel or los altos grill ?
+how many people will be coming ?
+when will you need this reservation ?
+when would you like your reservation and what restaurant ?
+i ' m sorry , but there are no openings for 5.30 pm , but i can offer one for 8.30 pm
+i ' m sorry , but there are no openings for wednesday at 5 : 30 for 6 people at oren hummus
+do you want me to look for 6 pm openings ?
+i ' m sorry , there are no openings for 6 pm , would you like a reservation for 8.30 pm ?
+ok , reservation confirmed for wednesday , 8.30 pm at oren hummus for 6 people .
+which restaurant would you like to make a reservation for ?
+at sumiko for 5 people . got it .
+they don ' t have a 7.15 pm . would 8 pm be okay ?
+there are no more reservation openings for 5 people tonight at sumiko .
+what price range do you want ?
+there are two to choose from . amarin or cetrella .
+how many will be on the reservation
+there is not a reservation available for 2 on wednesday at 6 pm at los altos grill
+6 pm is not available . please choose 6.30 pm or 7 pm
+would you like 7.30 pm , 8 pm or 8.30 pm
+reservation for tonight at los altos grill for 2 at 8 pm
+can you confirm that you want 8 pm
+what restaurant would you like and how many in your party
+can you confirm that the name of the restaurant is evvia
+so you want an 8 pm reservation for 5 on friday at evvia
+i am confirming reservation details for friday at 8 pm , 5 people at evvia restaurant
+what ' s the time
+how many people
+what ' s the restaurant
+what ' s the date
+7.15 pm not avaible , choose between 6 pm or 8 pm
+reservation failed
+please give me the restaurant , date and number of people attending
+ok to confirm your reservation that is at los altos grill tonight with 5 people
+8 pm is not available but 5 pm , 6 pm or 6.30 pm is available
+cannot do your requested reservation
+cannot make a reservation for 7.15 pm . times we have available are 5 pm , 6 pm or 6.30 pm
+ok . we cannot make the reservation for the times you want
+7.15 pm is not available but 5 pm , 7 pm or 8 pm is
+also , we got a reservation time available at 8.30 pm
+ok . confirming reservation for sumiko tonight at 8.30 pm for 5 people
+how many people and at which restaurant ?
+7.15 pm is unavailable . is 6 pm , 7 pm or 8.30 pm acceptable ?
+sorry , the reservation cannot be completed with the provided details .
+sorry , the reservation cannot be completed with the provided details .
+what restaurant ?
+7.15 pm is not available , but 6.30 pm and 7.30 pm are open ?
+okay , no reservation made
+okay , i won ' t add your reservation
+the reservation is not made
+okay , you want a reservation for 4 guests for next monday at 7.15 pm at the los altos grill , correct ?
+there are no reservations available for that time , how about 5 pm , 6 pm , 6.15 pm or 8.30 pm ?
+i ' m sorry , but i am unable to make a reservation for that time .
+which restaurant , and what time ?
+the following are available , 6.15 pm , 7.15 pm or 8 pm
+how about 6 pm or 7 pm
+other times for this reservation are not available at the cheese cake factory
+which location would you like me to search ?
+what price range would you like ?
+would you like boats or los altos grill ?
+what restaurant is this for
+what time and for how many people
+what date is this for
+confirm reservation for tonight
+unfortunately 7.15 pm isn ' t available . but i have 5 pm , 6 pm or 6.30 pm
+ok no reservation for 2 people tonight at sumiko
+what ' s the name of the restaurant you want to reserve a table at ?
+how many people will be dining with you ?
+no open spots for 6 pm hows 7.30 pm or 8.30 pm instead ?
+i cannot make a reservation at that time for the specified place .
+which restaurant ?
+did you say cascal ?
+was it for tomorrow at cascal at 8 pm for 6 ?
+confirmed . tomorrow at cascal at 8 pm for 6 people .
+okay , what restaurant ?
+okay , for what date and how many people
+unable to make a reservation at 6 pm but there i can make one at 6.30 pm . would that work ?
+okay , reservation made with cetrella for 4 people on wednesday at 6.30 pm .
+sure , what area do you want to look in , what ' s your price range , and what kind of food are you in the mood for ?
+here are the restaurants i found : : amarin , cetrella , and sakoon .
+how about angel , boats , or cascal ?
+what time
+please confirm that the time doesn ' t matter
+what is the name of the restaurant
+would you like to make this reservation for 5 pm or 6 pm
+i cannot make this reservation due to the details provided
+how many people
+what is the name of the restaurant ?
+the reservation was declined for 7.15 pm . i can offer a reservation for 7.30 pm ?
+reservations have not been set .
+how many of you
+when you need the reservation
+sure . here are three to choose from - amber , los altos grill or oren
+which restaurant ? the ivy , amber or los altos grill ?
+how about cetrella ?
+okay , you would like inexpensive indian cuisine ?
+okay , which of the following restaurants is best ? amber , evvia , or sakoon ?
+what type of cusine , location , and what meal do you prefer ?
+here are some options . high rooftop lounge , the view or amber
+i have three restaurants , you can choose from amber , cetrella or pompei .
+i have three restaurants , you can choose from amber , cetrella or pompei .
+i found a few options : the ivy or amber or angel . which would you like ?
+i found the nest , amber , or cetrella which would you like
+what kind of food do you want to eat ?
+did you say chinese food ?
+where do you want to look ?
+here is what i found : amber angel , or los altos grill
+in what price range ?
+so , the price range should be inexpensive ?
+how about one of the following : amber , los altos grill , or sakoon .
+choose from one of the following restaurants : amber , los altos grill , or sakoon .
+do you prefer amber , cetrella , or ephesus
+please provide type of food , location , and which meal
+is it the hudson room or amber
+what price range , cuisine and location are you interested in ?
+okay ! here are a few suggestions : .ink , amber , or ephesus ?
+i found three options , acorn , amber , or cetrella
+i would recommend either the hudson room , amber , or cascal . which one would you like ?
+in what area ?
+what type of food are you looking for , what rating , and what is your price range ?
+high rooftop lounge , amber , or cascal ?
+what type of food , price range and rating are you looking for ?
+i found amber restaurant that meets your criteria
+high rooftop lounge , the hudson room , and amber all fit that description , which one ?
+what type of restaurant ?
+would you like to go to .ink or amber ?
+you want to find a restaurant in middletown . is that correct ?
+do you want to find a restaurant in middletown ?
+what price range are you looking for ?
+do you want to go to an expensive restaurant ?
+i have two options for you . would you prefer .ink or amber ?
+please tell me which location to provide information for
+do you have a preference for food type , price , or restaurant rating
+would you like to hear more about amber or oren
+okay . confirm the location for orlando ?
+what price range ?
+okay . something expensive ?
+okay , please choose between the nest , amber or oren
+what are your preferences for food type , restaurant location , and price range ?
+you would like chinese and a range of moderately priced . is that correct ?
+i found three restaurants , boats , los altos grill and sakoon . which one would you like ?
+ok . how about amber ?
+what type of food are you in the mood for and what is your price range ?
+i found two restaurants that might interest you . would you prefer amber or angel ?
+what kind of food and for which mealtime ? do you have a preferred rating range ?
+here are some restaurants to choose from : high rooftop lounge , amber or pepper .
+what price range are you looking for
+pick one of the restaurants to visit from the nest , amber , or cetrella
+there is the nest , amber or boats
+what ' s the price range ?
+in what location ?
+how about amber or cetrella or pompei ?
+in what area and what type of food ?
+what price range
+here are three restaurants which one do you want the view or amber or sakoon
+select from the ivy , the nest , or acorn
+how about the restaurant amber ?
+how about amber ?
+amber or cascal ?
+are you looking for yorktown heights ?
+what type of food and what ratings do you prefer ?
+how are expensive restaurants for you ?
+ok , i found three restaurants for you : angel , cascal , or oren .
+i found another restaurant named amber .
+what type of food would you like to eat and what price range are you looking for ?
+i found two restaurants for you . high rooftop lounge , and amber .
+okay , what are your preferences for cuisine and location of the restaurant ?
+would you like to dine at .ink , amber , or cascal ?
+what location and meal type ?
+the name of the restaurant is either amber or oren
+choose from the following restaurants names : amarin , amber or boats
+what type of food and what quality ?
+would you like amber , deep blue , or pompei
+i found three options ; please choose from the following : cascal , ephesus or sakoon
+i found amber
+sure , what type of food
+italian , right ?
+for which mealtime ?
+i found a restaurant named sakoon
+what rating are you looking for
+what about high rooftop lounge or amber or pepper
+yes , looking for orlando restaurants
+what is your price range
+expensive ?
+amber , angel or sakoon restaurant .
+what kind of food are you in the mood for ?
+just checking , did you say thai ?
+where would you like me to look ?
+there are a few , the hudson room , amber , or pepper .
+ok , what is your location ?
+what type of restaurants are you looking for and with what rating ?
+great , i found amber or pompei .
+the ivy or amber or pompei ?
+find those that are inexpensive ?
+choose between evvia , los altos grill , or sakoon
+how about oren ?
+choose between amber , deep blue , or oren
+choose between amber , deep blue , or oren
+in what area ?
+you could try amber or pompei
+in kirkland ?
+what kind of rating should i look for ?
+i found a restaurant called the nest .
+or you could try amber , or boats .
+please confirm that the location is madison
+how about high rooftop lounge , acorn or sakoon
+how about los altos grill
+please confirm italian food that is moderately priced
+how about amber , cetrella or deep blue
+los altos is the location you wish to search in ?
+what type of food are you looking for ?
+there are no listing for a vietnamese restaurant in los altos
+the following chinese restaurants are in los altos : amber , angel and ephesus .
+what kind of cuisine would you like ?
+which location interests you ?
+how about .ink amber or boats ?
+please specify price range and food preference
+please specify which meal you are looking for and what type of rating you want the restaurant to have .
+here is the list of restaurants : amber , angel , oren .
+ok , please provide a food type , location and price range
+please choose between these restaurants : the nest , amarin , or amber
+sure , where would you like to look for the restaurant ?
+how much do you want to spend ?
+are you sure you don ' t care about the price ?
+i found these restaurants for you . would you like the hudson room , amber , or cetrella ?
+what area do you want to search ?
+what type of food are you looking for ?
+which one would you like ? amarin , amber or sakoon ?
+what type of food and price range would you like ?
+i found 3 restaurants : the ivy , amarin , or amber
+what kind of food ?
+i found amber , cascal , or ephesus
+at either amber or ephesus
+certainly . what type of cuisine are you looking for ?
+can you tell me what type of food you would like to eat ?
+alright , i have found two choices . would you like to go to boats or sakoon ?
+which restaurant would you like , angel , boats or cascal ?
+sure , i have found the following restaurant for you called boats
+which mealtime and what is your price range ?
+some matching choices are amarin , boats , or deep blue . which would you like ?
+sure , what kind of restaurant are you seeking in terms of the type of food , price range , or ratings ?
+alright , i have found a few restaurants that fit this description . you could choose the view , boats , or sweet greens .
+can you provide your location preference ?
+what price range are you looking for ?
+i have a few options : they the ivy , boats , or sakoon
+well , what area and what price do you have in mind ?
+how about sweet greens ?
+ok - - something mediterranean for lunch ?
+there a few possibilities : there ' s amarin , amber , or boats .
+do you have a preference for a particular food type or restaurant rating ?
+excellent . i found several matching restaurant ; amber , boats , or deep blue . which one would you like ?
+what type of food are you hungry for and what meal do you want
+would you like the restaurant amber , boats , or sakoon
+brunch in kirkland , correct ?
+would you like high rooftop lounge , boats , or sakoon
+choose either boats , oren or cetrella restaurant
+which meal of the day are you looking for ?
+ok , which restaurant are you interested in : the nest , acorn , or boats ?
+choose from the following restaurant : the hudson room , boats or sweet greens .
+what price range ?
+what kind of food would you like and where would you like me to look ?
+i found amber
+you ' d like a zagat rated rated restaurant , correct ?
+which of the following would you like to see ? amarin or boats ?
+confirm that you want a moderately priced restaurant in orlando
+there are three restaurants : amber , boats , or sakoon
+what kind of food do you want eat and how much do you want to spend
+ok , would you like boats or pompei
+what price range would you like
+what kind of cuisine would you like
+do you have a location preference ?
+i found the restaurant , boats in your location of preference
+do you have any preferences for the type of food , location and price range ?
+how about the view , boats or ephesus ?
+choose from the following or say more options : .ink , the ivy , or boats .
+what cuisine do you want to eat ?
+3 results came back , amarin , boats and los altos grill
+i found the nest , boats , or oren for you you
+ok , so you want moderately priced restaurants in orlando , is that right ?
+i have found .ink , amarin , and boats . do you want more info about one of these ?
+ok finding inexpensive italian food in los altos
+choose from the list of restaurants , boats , cetrella or los altos grill
+choose from the list of restaurants , boats , cetrella or los altos grill
+what kind of food , location , and price range are you looking for ?
+ok , please choose one of the following : the ivy , amber , or boats .
+sure , for what location .
+i show 3 restaurants . how about boats , cetrella or sakoon ?
+what price range , cuisine and mealtime should I look for ?
+i have found .ink , boats , or ephesus
+how about high rooftop lounge or boats or cetrella
+here are some i found : acorn , boats or oren
+what is the price range
+what is the location
+is the name of the restaurant boats or pepper
+there are no restaurants in orlando that are moderately priced
+is the name of the restaurant the hudson room , amber , or oren
+is the name of the restaurant angel , boats , or sweet greens
+ok , please just confirm you ' re looking for an inexpensive restaurant in kirkland
+ok , and what kind of food are you looking for ?
+ok , i ; m showing results for boats , los altos grill , or pepper
+pick a price range
+pick from boats or ephesus
+what type of food would you like ?
+are you interested in thai restaurants ?
+what location and price range are you interested in ?
+would you like to try the ivy , the view , or boats ?
+here is a list of restaurants with prices and ratings .
+here are three listings : amarin , boats an sweet greens .
+what kind ?
+what part of town , and what price range and for which meal ?
+here are your choices : boats , evvia , and pepper .
+where would you like to look ?
+i ' ve found a restaurant called boats
+pick from one of the three restaurant , .ink , high rooftop lounge or boats
+i ' m sorry , did you say redmond
+any particular price range ?
+i ' ve found 3 : boats , evvia , or sweet greens . which would you like ?
+here are some choices : boats , amarin , or pompei
+choose cascal , evvia , or oren
+how about .ink
+choose angel or evvia
+no matches for expensive chinese food in middletown
+choose angel , boats , or cascal
+would you like amarin , amber or boats ?
+sure , at what city are you looking ? and do you have a price range ?
+ok , i found three for you . pick one : boats , cetrella , or sweet greens .
+what kind of food , which mealtime and what location ?
+i found 2 : boats or ephesus
+what location do you want ?
+what type of food and what price range ?
+what is your preference for food type and price ?
+here are three choices : the ivy , boats , or oren . you can select one or say next .
+what price range are you looking for ?
+what type of food , location , and star rating would you like ?
+i found the restaurant called deep blue
+i found 3 options . would you like angel , deep blue , or evvia .
+ok . i ' ll look up some alternative restaurants . what kind of restaurant would you prefer ?
+ok . i found three matches . the first is called " deep blue " , the second is called " oren " , and the third is called " sakoon " . which do you prefer ?
+please provide food type and price range .
+i have found the following : acorn , amarin , and oren . do any of these satisfy you ?
+how about deep blue ?
+would you like to look at the restaurant deep blue first ?
+for what price and rating ?
+found : angel , deep blue , and sweet greens .
+what type of food do you prefer ?
+some nearby restaurants are high rooftop lounge , deep blue , and ephesus .
+i see the high rooftop lounge , boats , or pepper , which would you like .
+how about the hudson room or deep blue ?
+what type of cuisine ?
+what city ?
+there are three restaurants in the area , say the nest , deep blue , or sweet greens
+sure , where do you want me to look ?
+what kind of food ? any sort of price range ? what about time of day ?
+what type of rating are you looking for ?
+i found three for you to choose from : the hudson room , cascal or deep blue .
+what type of food would you like ?
+deep blue , sakoon , and sweet greens are restaurants near you .
+what type of food would you like ?
+would you like the nest , boats , or deep blue ?
+ok , what area should i look in ?
+where should i look for a restaurant ?
+i have found the following in kirkland , please choose from : .ink , the nest or deep blue
+how expensive do you want to go ? fast food , 5 - star , etc .
+what type of food do you want ?
+i see two thai restaurants . you can eat at .ink or deep blue . which one do you want ?
+here are three : cetrella , pepper , or sakoon . would you like more information about any of these ?
+how about high rooftop lounge , or acorn ?
+no , i can ' t find any other inexpensive restaurants in mountain view . would you like me to search for something else ?
+moderately priced restaurants in mountain view include the ivy , the nest , and deep blue . would you like more information on any of these ?
+what kind of restaurant do you want , and can you give me a location and price range ?
+sorry , i couldn ' t find any matches for those criteria . is there an alternative location you might want to try ?
+here are two restaurants that meet what you are looking for ; amarin or deep blue .
+restaurants in orlando ?
+what kind of food , and what is your ideal price range ?
+choose from the following : .ink , deep blue , or sakoon ?
+when will you be dining ? what type of food , and what price range would you prefer ?
+would you prefer the restaurant deep blue , los altos grill , or pompei ?
+what area would you like to eat in ?
+what type of food ? how much do you want to spend and how highly rated do you want the restaurant to be ?
+your choices for those preferences are the ivy , deep blue or sweet greens .
+sure , there are two : would you like the restaurant named the view or deep blue
+i found the view , amber and deep blue
+choose from the following restaurants : cetrella , deep blue or pompei .
+choose from the following : cetrella , deep blue , or sweet greens
+found a few , cetrella , deep blue and pepper
+how much do you want to spend
+somewhere moderately priced ? hold on
+here ' s some places close by : high rooftop lounge , deep blue , or sakoon
+yes , what price range would you like ?
+okay , please choose from these options : angel , deep blue , or pepper .
+what is your rating preference ?
+what location and price range ?
+three options are available : amber , deep blue , or pompei .
+what price range ?
+do you want the view , deep blue , or pompei ?
+yes . would you like to go to the nest , deep blue , or pompei ?
+what kind of food , price range and rating do you want ?
+which restaurant would you like : high rooftop lounge , amber , or deep blue
+do you have any preference about location and price range ?
+what type food would you like ?
+i found three restaurants to choose from - angel , deep blue or pompei
+what type of food do you want ?
+here are some options : amber , angel , or cascal .
+i found a restaurant called oren .
+do you want a zagat rated restaurant ?
+i found another restaurant call deep blue or pepper .
+what type of food are you looking for ? where are you headed ?
+you want french food in redmond . correct ?
+i found 3 restaurants for you to choose . the view , deep blue , or ephesus . which would you like ?
+any preferences for location ?
+what sort of price range are you looking for ?
+how about cascal , deep blue or sakoon ?
+here are some suggestions : amarin , boats or deep blue , choose one !
+in what area and what type of rating for the place
+i found the following places : the ivy , acorn or deep blue
+please tell me a price range
+where do you want me to look
+would you like the hudson room , the view , or deep blue
+how about evvia , sakoon , or sweet greens ?
+i couldn ' t find the italian restaurant you were looking for .
+how about the ivy or the nest or deep blue ?
+do you have any preferred locations ?
+what type of food are you looking for , and what is your price range ?
+i found a restaurant called , " the ivy . "
+i can ' t find any other restaurants in morristown that serve inexpensive vietnamese food .
+i found these three restaurants , " the hudson room , " " amarin , " or " boats . "
+i found these restaurants , " amarin , " " oren , " " pepper . "
+what area and price range ?
+would you like to go to the hudson room , angel or oren ?
+is there a location you prefer ?
+what type of food and how much do you want to spend ?
+how about amber , cascal , or oren ?
+please provide a specific location for the search
+here are two restaurants , please choose between boats or oren
+what location and prices range would you like ?
+i have the nest , oren and pepper
+what type of food ?
+what price range
+i found a restaurant called ephesus
+pick from : ephesus or los altos grill or oren
+sure . can you tell me your preference for food type , location , and price range ?
+i found one for you : a restaurant called oren .
+what kind of food would you like ?
+you said indian ?
+what area do you want restaurant listings from ?
+i found 3 restaurants : the view , cetrella , or oren .
+choose from the following restaurants ; ephesus , oren , or pepper
+is morristown correct ?
+available restaurants are angel , los altos grill , or oren .
+what is your preferred location ?
+can you confirm the location is los altos ?
+what type of food are you looking for ?
+i couldn ' t find any vietnamese restaurants in los altos .
+what about restaurants acorn , amber or pompei ?
+i couldn ' t find any vietnamese restaurants in kirkland .
+what about restaurants ephesus , oren , or pompei ?
+sure , how about evvia or pompei ?
+how about cascal , cetrella , or oren ?
+sure , how about acorn , angel or oren ?
+what type of restaurant ?
+would you like any of the following ; .ink , pompei , and sakoon
+what about oren ?
+what is your acceptable price range ?
+what kind of food would you like ?
+i have three choices : angel , oren , or pompei .
+provide price range preference
+i have three options for you . the first is oren , the second is named pepper and the third is named pompei .
+the restaurants i found are deep blue , ephesus , and oren . which one would you like ?
+what type , ratings and price range ?
+some suggestions are amber , cascal or oren
+what price range are you looking for ?
+ok , you can choose from the following : amarin , boats , or oren .
+what price range ?
+what type , which mealtime and in what location ?
+ok , how about the hudson room or oren ?
+yes , where are you and what type of food ?
+that was chinese food in madison ?
+i found the following restaurants : angel , evvia , or oren .
+ok , in madison ?
+i ' ve found ephesus , evvia , and pompei
+how about oren ?
+in what area would you like to search ?
+which restaurant : .ink , oren , or sweet greens ?
+how about the ivy , or oren or sakoon ?
+here are some restaurants that i found : oren , sakoon , sweet greens .
+there are two restruant , cetrella and oren . which would you like ?
+ok , would you like to see deep blue , los altos grill or pompei
+i could not find a restaurant in kirkland that is expensive and michelin rated
+ok , would you like to see the view , amber or pompei ?
+i could not find a restaurant in kirkland that is moderately priced and michelin rated
+ok , would you like to see boats , oren or sweet greens
+what type of food ?
+what area of town , price range and time of day ?
+how about oren ?
+choose from the following restaurants : the ivy , the nest , or oren
+restaurants to choose from : cascal , evvia or oren
+what food type would you like ?
+what meal and price range are you looking for ?
+would you like any of the following restaurants : amber , deep blue or oren ?
+do you want the ivy , oren , or sweet greens
+what type of food
+the name of restaurant is angel , ephesus or oren
+what kind of food would you like ?
+what location would you like and how much do you want to spend ?
+would you like cetrella , oren or pompei ?
+i have the nest or oren
+what kind of price are you looking for ?
+do you have a preference for type or location ?
+here are some options : the view , oren or pompei .
+what area do you want to dine in ?
+i can do amber , oren or pepper
+here are some choices : the ivy , the nest , or oren . which would you prefer ?
+sure , what type of food do you want ?
+you want to look for places that are inexpensive , is that right ?
+here are some options i found : high rooftop lounge , the ivy , amarin . which would you like ?
+here ' s another place : oren
+what price range are you looking for ?
+what ' s your price range ?
+here are some options i ' ve found . please choose from the view , deep blue or oren .
+which mealtime do you want to book ?
+what kind of food and what price and location ?
+okay , please choose between the view , acorn or amber .
+i found the restaurant .ink .
+please choose from ephesus or oren
+what kind of food are you looking for ?
+i found amber and oren restaurants , which one do you like ?
+ok , can you let me know what type of meal you want ?
+which do you prefer , amber or ephesus or oren ?
+which one , .ink , cetrella , or pompei ?
+i can ' t find that
+i found a restaurant called deep blue .
+what kind of food do you want
+you want greek food ?
+i have a few restaurants you can choose from , .ink , the ivy , or the nest .
+i can ' t find any greek restaurants in morristown
+which restaurant , boats or ephesus
+could not find inexpensive restaurant
+sure . what date do you need the reservation for ?
+i found a restaurant named pompei .
+okay , for how many people ?
+which restaurant and what day would you like ?
+sure . what type of food would you like to eat and how much do you want to pay ?
+there is not a thai food restaurant available in your area with the price range of does not matter .
+where would you like to find a restaurant
+so that ' s mountain view ?
+what cuisine and price range are you looking for
+i have found a restaurant called the hudson room
+none that fit with your preferences
+i found amarin or cetrella
+i couldn ' t find a michelin rated restaurant in middletown
+sure . how many stars ?
+sorry , i couldn ' t find any middletown restaurants that are michelin rated .
+how about angel , cascal , or evvia ?
+how about amber ?
+what ' s your price range
+can you confirm that you want an inexpensive restaurant
+what kind of cuisine do you want , for which mealtime and in what area ?
+here are 3 restaurants to choose from : .ink , angel and evvia .
+can ' t find any other restaurants that match your requirements
+i found the following restaurant acorn . would you like more info ?
+ok . you said 8 pm , correct ?
+choose from the following restaurants : .ink , the hudson room , or ephesus .
+i found a restaurant called .ink that fits .
+sure . what star rating would you prefer ?
+do you have a price range preference ?
+3 possible restaurants are .ink , the view and pompei . are you interested in any of those ?
+sorry , i can ' t find any others that meet all of your criteria .
+ok . you said 8 pm , correct ?
+ok , what type of food , what area and what price range are you interested in ?
+okay how about the hudson room or the ivy
+how about the hudson room
+sorry i could not find a restaurant with your preferences , would you like to try again
+how about los altos grill or pepper
+sorry , there are no other restaurants that meet your needs
+what rating and type of food are you interested in ?
+do you have a food preference ?
+i have found 3 options .ink or the ivy or deep blue
+i was unable to find an inexpensive french restaurant in mountain view
+what kind of food are you looking for ?
+i couldn ' t find a match for you
+what city ?
+can you find los altos grill ?
+what type of cuisine do you like ? what is your price range and do you want the ratings as well ?
+can you provide food type , price range and rating of your choice ?
+i found a restaurant named amarin which matched your attributes
+there is a restaurant named amarin which is suitable for you
+well ! this is the only restaurant that matched and i can ' t find any other restaurant
+what type of restaurant
+where would you like to search for restaurants
+i found a vietnamese restaurant called pompei in los altos
+what area do you want to find a restaurant in , and how expensive do you want it to be .
+three restaurants fit this description : the nest , angel , or boats .
+ok , there is the angel , evvia , or sweet greens restaurants .
+i am sorry i cannot find any other restaurants that fit your needs .
+what type of food ? what price range ?
+i found a restaurant called .ink .
+i couldn ' t find an expensive zagat rated chinese restaurant in kirkland .
+what cuisine do you want ?
+what price range , mealtime and location are you looking for ?
+ok , i found sakoon
+ok , i have three options for you ; high rooftop lounge , the ivy or sakoon
+i don ' t have any other options for you with these parameters
+sure . what type of food are you looking for ? and what rating do you prefer for the restaurant ?
+okay . i found a restaurant called acorn .
+sure , any preference on what type of food or pricing ?
+which would you prefer : the ivy , los altos grill , or pompei ?
+how about the ivy ?
+sorry , i couldn ' t find any restaurants that are both moderately priced while serving indian cuisine in morristown .
+what type of food , what price range and what rating
+i have found three ; amber , ephesus or pompei
+what do you say to amarin , the view or angel ?
+i ' m sorry . i could not find a moderately priced taiwanese restaurant in mountain view that is michelin rated
+what food type and price range do you prefer ?
+here are the results for the restaurants : high rooftop lounge , acorn , amber .
+what is your food preference ?
+do you want angel or cascal ?
+i couldn ' t find you a restaurant with those details
+within what price range ?
+what type of cuisine are you looking for ?
+in what area ?
+i could not get restaurants in the area kirkland and the price is moderately priced
+would you like high rooftop lounge , acorn or evvia
