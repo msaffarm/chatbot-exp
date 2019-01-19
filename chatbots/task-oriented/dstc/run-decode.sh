@@ -1,8 +1,8 @@
 PROBLEM=dstc_problem
 
 
-MODEL=universal_transformer
-HPARAMS=adaptive_universal_transformer_tiny
+# MODEL=universal_transformer
+# HPARAMS=adaptive_universal_transformer_tiny
 
 
 # MODEL=transformer
@@ -14,8 +14,14 @@ HPARAMS=adaptive_universal_transformer_tiny
 # HPARAMS=universal_transformer_skip_tiny
 # MODEL=transformer
 # MODEL=universal_transformer
+
 # MODEL=lstm_seq2seq_attention
 # HPARAMS=lstm_attention
+
+MODEL=lstm_seq2seq_attention
+HPARAMS=lstm_attention
+
+
 
 CURRENT_DIR=$PWD
 DATA_DIR=$CURRENT_DIR/t2t_data
@@ -42,5 +48,5 @@ t2t-decoder \
   --hparams_set=$HPARAMS \
   --output_dir=$TRAIN_DIR \
   --decode_from_file=$DECODE_FILE \
-  --decode_to_file=$DECODE_PATH/$HPARAMS-response.txt \
-  --checkpoint_path=$TRAIN_DIR/model.ckpt-4000
+  --decode_to_file=$DECODE_PATH/$MODEL-$HPARAMS-response.txt \
+  --checkpoint_path=$TRAIN_DIR/model.ckpt-12000
