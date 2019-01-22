@@ -93,7 +93,7 @@ def dstc_transformer_hparams_v8():
 
 
 ########################################## LSTM #################################
-from tensor2tensor.models.lstm import lstm_seq2seq, lstm_attention_base
+from tensor2tensor.models.lstm import lstm_seq2seq, lstm_attention
 # dropout = [0.2,0.7]
 # layers = [2,4]
 @registry.register_hparams
@@ -129,7 +129,7 @@ def dstc_lstm_hparams_v4():
 # attention LSTM
 @registry.register_hparams
 def dstc_lstm_attention_hparams_v1():
-    hparams = lstm_attention_base()
+    hparams = lstm_attention()
     hparams.num_hidden_layers = 2
     hparams.dropout=0.2
     return hparams
@@ -138,7 +138,7 @@ def dstc_lstm_attention_hparams_v1():
 # attention LSTM
 @registry.register_hparams
 def dstc_lstm_attention_hparams_v2():
-    hparams = lstm_attention_base()
+    hparams = lstm_attention()
     hparams.num_hidden_layers = 2
     hparams.dropout=0.7
     return hparams
@@ -146,7 +146,7 @@ def dstc_lstm_attention_hparams_v2():
 # attention LSTM
 @registry.register_hparams
 def dstc_lstm_attention_hparams_v3():
-    hparams = lstm_attention_base()
+    hparams = lstm_attention()
     hparams.num_hidden_layers = 4
     hparams.dropout=0.2
     return hparams
@@ -154,7 +154,7 @@ def dstc_lstm_attention_hparams_v3():
 # attention LSTM
 @registry.register_hparams
 def dstc_lstm_attention_hparams_v4():
-    hparams = lstm_attention_base()
+    hparams = lstm_attention()
     hparams.num_hidden_layers = 4
     hparams.dropout=0.7
     return hparams
