@@ -267,10 +267,10 @@ declare -a hparams=("dstc_universal_transformer_act_hparams_v1"
                     "dstc_universal_transformer_act_hparams_v2"
                     "dstc_universal_transformer_act_hparams_v3"
                     "dstc_universal_transformer_act_hparams_v4"
-                    "dstc_universal_transformer_act_hparams_v5"
-                    "dstc_universal_transformer_act_hparams_v6"
-                    "dstc_universal_transformer_act_hparams_v7"
-                    "dstc_universal_transformer_act_hparams_v8"
+                    "dstc_universal_transformer_glb_hparams_v1"
+                    "dstc_universal_transformer_glb_hparams_v2"
+                    "dstc_universal_transformer_glb_hparams_v3"
+                    "dstc_universal_transformer_glb_hparams_v4"
                     )
 
 CURRENT_DIR=$PWD
