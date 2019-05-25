@@ -363,9 +363,9 @@ class DSTCDataReader(object):
                 yield turn
     
 
-    def create_test_data_files(self):
+    def create_test_data_files(self,mode='test'):
         prependix = "DSTC2"
-        diaglogues = self.get_dataset("test")
+        diaglogues = self.get_dataset(mode)
         info = {}
         info["input"] = []
         info["target"] = []
@@ -392,15 +392,17 @@ class DSTCDataReader(object):
                 info["diag-id"].append(diagId)
 
         # dump 
-        with open(prependix + "input-test.txt",'w') as f:
+        with open(prependix + "input-dev.txt",'w') as f:
             for i in info["input"]:
                 f.write(i+'\n')
-        with open(prependix+"target-test.txt",'w') as f:
+        with open(prependix+"target-dev.txt",'w') as f:
             for i in info["target"]:
                 f.write(i+'\n')
-        with open(prependix + "diagid-test.txt",'w') as f:
+        with open(prependix + "diagid-dev.txt",'w') as f:
             for i in info["diag-id"]:
                 f.write(i+'\n')
+        
+        return info
 
 
 def main():
@@ -408,6 +410,9 @@ def main():
     dr.read_data()
     t = dr.get_data_tokens("dev")
     print(t)
+    dr.create_test_data_files()
+
+
 def get_m2m_data():
 
     # file_names = ["sim-R/dev.json"]
