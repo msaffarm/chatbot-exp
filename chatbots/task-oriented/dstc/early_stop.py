@@ -64,12 +64,14 @@ def find_best_model(model_name):
 
 
 def main():
-    MODEL_BASE_NAME = "transformer-dstc_transformer_hparams"
+    # MODEL_BASE_NAME = "transformer-dstc_transformer_hparams"
     # MODEL_BASE_NAME = "lstm_seq2seq-dstc_lstm_hparams"
     # MODEL_BASE_NAME = "lstm_seq2seq_attention-dstc_lstm_attention_hparams"
+    # MODEL_BASE_NAME = 'lstm_seq2seq_bidirectional_encoder-dstc_bilstm_hparams'
     # MODEL_BASE_NAME = "lstm_seq2seq_attention_bidirectional_encoder-dstc_bilstm_attention_hparams"
-
-    for v in range(1,9):
+    # MODEL_BASE_NAME = 'universal_transformer-dstc_universal_transformer_hparams'
+    MODEL_BASE_NAME = 'universal_transformer-dstc_universal_transformer_glb_hparams'
+    for v in range(1,5):
         model_name = MODEL_BASE_NAME + '_v{}'.format(v)
         print('Getting resuls for {}'.format(model_name))
         find_best_model(model_name)
